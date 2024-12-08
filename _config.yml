@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "湖北武汉（Hubei WuHan）"
-  employer         : "Red Brick University"
+  employer         : "华中科技大学（Huazhong University of Science and technology）"
   uri              : # URL
   email            : "jgx@hust.edu.cn" 
 
@@ -46,7 +46,8 @@ author:
   dribbble         : # Username
   github           : "academicpages"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
+  
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -68,7 +69,7 @@ author:
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : # Username
+  WeChat           : "weChat.jpg"  
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
