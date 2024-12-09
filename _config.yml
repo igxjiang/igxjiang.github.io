@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "主页"
+title                    : "主页-home"
 title_separator          : "-"
-name                     : &name "Your name"
+name                     : "华中科技大学蒋光鑫"
 description              : &description "personal description"
 url                      : https://igxjiang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
