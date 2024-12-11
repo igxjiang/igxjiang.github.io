@@ -10,5 +10,5 @@ redirect_from:
 Education
 ======
 title: "CV"
-paperurl: [CV]('http://academicpages.github.io/files/简历（2024.8）.pdf')
+paperurl: [CV](http://academicpages.github.io/files/简历（2024.8）.pdf)
 ---
