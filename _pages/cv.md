@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-
 Education
 ======
-import "简历（2024.8）.pdf"
-files/简历（2024.8）.pdf
+title: "CV"
+paperurl: [CV]('http://academicpages.github.io/files/简历（2024.8）.pdf')
+---
