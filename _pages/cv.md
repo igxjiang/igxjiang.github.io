@@ -11,3 +11,4 @@ redirect_from:
 Education
 ======
 import "简历（2024.8）.pdf"
+files/简历（2024.8）.pdf
