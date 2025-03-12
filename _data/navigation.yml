@@ -14,14 +14,14 @@ main:
   - title: "问答-Q&A"
     url: /teaching/    
     
-  - title: "Portfolio"
+ # - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+ # - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+ # - title: "Guide"
     url: /markdown/
