@@ -11,12 +11,12 @@ redirect_from:
 
 ---
 华中科技大学大三本科在读，生物医学工程专业，来自安徽六安。  
-未来我希望攻读集成电路的博士，欢迎与各位老师取得联系，这是[我的微信](https://igxjiang.github.io/images/wechat.jpg)    
+未来我希望攻读集成电路的博士，欢迎与各位老师取得联系，这是[我的微信](https://igxjiang.github.io/images/wechat.jpg)  
+目前我的网站还在建设中
 
 Education-教育经历
 ======
 2022.9-now  &ensp;&thinsp;&thinsp;  华中科技大学   
-
 <details>
 <summary> before2022 </summary>
   
@@ -39,7 +39,7 @@ Scores-部分课程成绩
 数理方程与特殊函数（97）信号与线性系统（96）  
 微弱信号获取方法（89） 解剖与生理学（89） 细胞生物学（95）  
 数字集成电路（90） 半导体器件物理（91）  
-CET-6（511） &ensp; 计算机三级网络技术
+CET-6（511） &ensp; 通过计算机等级考试（三级网络技术）
 
 Project Experience-项目经历
 ======
@@ -56,7 +56,7 @@ Interests-研究兴趣
 
 Publication-出版物
 ------
-暂时没有，相信我在2025或2026会收获处子作。  
+暂时没有，相信我会在2025或2026收获处子作。  
 
 
 Honors-荣誉
@@ -75,13 +75,16 @@ Interests-研究兴趣
 3.28   &ensp; 广东·深圳  
 我报名注册了[ICAC](https://icacworkshop.cn/)会议，期待能够和各位老师见面  
 ![image](https://igxjiang.github.io/images/ICAC.png)
+
 3.7-3.9   &ensp;  广东·广州  
 作为博士优先录取营的营员，访问香港科技大学（广州），我参观了港科广的芯片中央实验室。  
 这也是我第二次拜访广州!👋  
-![image](https://igxjiang.github.io/images/gz.jpg)
 ![image](https://igxjiang.github.io/images/boyou.jpg)
+![image](https://igxjiang.github.io/images/gz.jpg)  
+
 2.19-2.23  &ensp;  安徽·合肥  
 访问中国科大微电子学院智能探测与成像实验室，学习芯片测试相关    
+![image](https://igxjiang.github.io/images/hf.jpg)  
 
 2024年
 ------
