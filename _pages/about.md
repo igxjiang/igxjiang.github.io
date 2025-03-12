@@ -70,13 +70,13 @@ Honors-荣誉
 2025年  
 3.28  广东·深圳  
 我报名注册了[ICAC](https://icacworkshop.cn/)会议，期待能够和各位老师见面  
-![image](https://github.com/igxjiang/igxjiang.github.io/blob/master/images/ICAC.png)
+![image](https://igxjiang.github.io/images/ICAC.png)
 
 3.7-3.9  广东·广州  
 作为博士优先录取营的营员，访问香港科技大学（广州），我参观了港科广的芯片中央实验室。  
 这也是我第二次拜访广州!👋  
-![image](https://github.com/igxjiang/igxjiang.github.io/blob/master/images/gz.jpg)
-![image](https://github.com/igxjiang/igxjiang.github.io/blob/master/images/boyou.jpg)
+![image](https://igxjiang.github.io/images/gz.jpg)
+![image](https://igxjiang.github.io/images/boyou.jpg)
 
 2.19-2.23  安徽·合肥  
 访问中国科大微电子学院智能探测与成像实验室，学习芯片测试相关    
@@ -86,13 +86,13 @@ Honors-荣誉
 10.27  湖北·孝感  
 孝感马拉松（半程）用时：1小时51分32秒  
 第一次完成半程马拉松！  
-![image](https://github.com/igxjiang/igxjiang.github.io/blob/master/images/xiaogan.jpg)
+![image](https://igxjiang.github.io/images/xiaogan.jpg)
 
 
 7.21-7.26  海南·三亚  
 全国大学生生物医学工程创新设计竞赛  
 第一次乘坐飞机、做海报展示！  
-![image](https://github.com/igxjiang/igxjiang.github.io/blob/master/images/sanya.jpg)
+![image](https://igxjiang.github.io/images/sanya.jpg)
 
 
 2023年  
