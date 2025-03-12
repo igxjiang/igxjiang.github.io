@@ -55,7 +55,7 @@ ADC、传感器
 
 Education-教育经历
 ======
-2022.9-now  &ensp;&thinsp;&thinsp;  华中科技大学 生命科学与技术学院  
+2022.9-now  &ensp;&thinsp;&thinsp;  华中科技大学   
 
 <details>
 <summary> before2022 </summary>
