@@ -29,7 +29,7 @@ Project Experience-项目经历
 2024.10-now   &ensp;&ensp;&ensp;  [数字PET实验室](https://idil.ustc.edu.cn/32986/list.htm)  &ensp;&ensp;[谢庆国](https://sme.ustc.edu.cn/2023/0822/c30996a610384/)（国家杰青HUST&USTC）  
 内容：参与设计面向新型全数字硅光电倍增器（MT-SiPM）的核心模块时间数字转换器（TDC），完成脉冲上升下降沿检测、延时控制单元、测量通道等部分电路，正在进行测量精度控制模块的设计。另外针对PET探测器多通道阵列信号的不一致性，提出树状对称布线方案，大幅减小通道间因RC寄生效应导致的延时差异。
 
-2024.04-2024.07 基于机器学习的青少年早期抑郁症检测   [王植炜](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm)（武汉国光）  
+2024.04-2024.07 基于机器学习的青少年早期抑郁症检测   [王植炜](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm)（武汉光电国家研究中心）  
 内容：基于抑郁症患者和健康人的心电、脑电两种模态数据， 建立支持向量机（SVM）和卷积神经网络（CNN-LSTM）模型，创新性地提出了“抑郁片段比例”的概念，解决了样本量不平衡的问题，有效实现对青少年早期抑郁症的筛查和检测。
 
 Publication-出版物
