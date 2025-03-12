@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-# 欢迎访问我的个人主页！
+# 欢迎您的访问！
 
 ---
-华中科技大学大三本科在读，生物医学工程专业。安徽省霍邱县人，男，共青团员。  
-目前，我正在寻求国内模拟IC的PhD机会！[我的微信](https://igxjiang.github.io/images/wechat.jpg)    
+华中科技大学大三本科在读，生物医学工程专业，来自安徽六安。  
+未来我希望攻读集成电路的博士，欢迎与各位老师取得联系，这是[我的微信](https://igxjiang.github.io/images/wechat.jpg)    
 
 Education-教育经历
 ======
