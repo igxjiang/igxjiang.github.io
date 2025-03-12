@@ -48,7 +48,7 @@ Project Experience-项目经历
 
 2024.04-2024.07  &ensp;&ensp;  [王植炜](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm)（武汉光电国家研究中心）  
 基于机器学习的青少年早期抑郁症检测  
-内容：基于抑郁症患者和健康人的心电、脑电两种模态数据， 建立支持向量机（SVM）和卷积神经网络（CNN-LSTM）模型，创新性地提出了“抑郁片段比例”的概念，解决了样本量不平衡的问题，有效实现对青少年早期抑郁症的筛查和检测。
+内容：基于抑郁症患者和健康人的心电、脑电两种模态数据， 建立支持向量机（SVM）和卷积神经网络（CNN-LSTM）模型，创新性地提出了“抑郁片段比例”的概念，解决了样本量不平衡的问题，有效实现对青少年早期抑郁症的筛查和检测。这是我们的[答辩ppt]((https://igxjiang.github.io/file/BME2024.pptx)和[展示海报](https://igxjiang.github.io/file/海报1654-打印.pdf)
 
 Interests-研究兴趣
 ======
