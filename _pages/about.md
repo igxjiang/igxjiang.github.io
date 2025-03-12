@@ -1,23 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "华科蒋光鑫-学生主页"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
----
-title: "华科蒋光鑫-学生主页"
-sitemap: false
-permalink: /404.html
----
 # 欢迎访问我的个人主页！
 
 ---
 华中科技大学大三本科在读，生物医学工程专业。安徽省霍邱县人，男，共青团员。  
 目前，我正在寻求国内模拟IC的PhD机会！[我的微信](https://igxjiang.github.io/images/wechat.jpg)    
-网站持续建设中......
+
 
 Scores-部分课程成绩
 ======
@@ -63,7 +58,7 @@ Education-教育经历
 
 <details>
 <summary> before2022 </summary>
-2019.9-2022.6 安徽省霍邱县第一中学 2022届30班  
+2019.9-2022.6 安徽省霍邱县第一中学 2022届30班    
 2016.9-2019.6 霍邱县农机校初中部 2019届12班  
 2015.9-2016.6 周集镇志立小学  
 2010.9-2015.6 蒋郢小学  
