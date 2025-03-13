@@ -87,7 +87,7 @@ Footprint-足迹
 
 2025年 
 ------
-3.28   &ensp; 广东·深圳  
+3.25-3.28   &ensp; 广东·深圳  
 我报名注册了[ICAC](https://icacworkshop.cn/)会议，期待能够和各位老师见面  
 ![image](https://igxjiang.github.io/images/ICAC.png)
 
