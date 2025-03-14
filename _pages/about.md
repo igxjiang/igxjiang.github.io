@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "华科蒋光鑫-学生主页"
+title: "华中科技大学-蒋光鑫"
 author_profile: true
 redirect_from: 
   - /about/
