@@ -98,7 +98,7 @@ Footprint-足迹
 ![image](https://igxjiang.github.io/images/gz.jpg)  
 
 2.19-2.23  &ensp;  安徽·合肥  
-和师兄一同前往中国科大微电子学院智能探测与成像实验室，学习芯片测试相关  
+和师兄一同前往中国科大微电子学院智能探测与成像实验室，学习芯片测试  
 ![image](https://igxjiang.github.io/images/hf.jpg)  
 
 2024年
