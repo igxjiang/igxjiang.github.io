@@ -92,11 +92,19 @@ Footprint-足迹
 我报名注册了[ICAC](https://icacworkshop.cn/)会议
 ![image](https://igxjiang.github.io/images/ICAC.png)
 
+
+
+
 3.7-3.9   &ensp;  广东·广州  
 作为博士优先录取营的营员，访问香港科技大学（广州），我参观了港科广的芯片中央实验室，也结交到了一些好朋友。   
 这也是我第二次拜访广州，一个繁华的国际大都市!👋  
-![image](https://igxjiang.github.io/images/boyou.jpg)
-![image](https://igxjiang.github.io/images/gz.jpg)  
+
+<center>
+<figure>
+<img src="https://igxjiang.github.io/images/boyou.jpg" />
+<img src="https://igxjiang.github.io/images/gz.jpg" />
+</figure>
+</center>
 
 2.19-2.23  &ensp;  安徽·合肥  
 和师兄一同前往中国科大微电子学院智能探测与成像实验室，学习芯片测试  
