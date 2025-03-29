@@ -90,7 +90,7 @@ Footprint-足迹
 ------
 3.25-3.28   &ensp; 广东·深圳  
 我报名注册了[ICAC](https://icacworkshop.cn/)会议，这是我第一次参加正式的学术会议，极大开阔了我的眼界
-![image](https://igxjiang.github.io/images/ICAC2.jepg)
+![image](https://igxjiang.github.io/images/ICAC2.jpeg)
 
 
 
