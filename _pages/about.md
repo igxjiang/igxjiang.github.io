@@ -89,14 +89,14 @@ Footprint-足迹
 2025年 
 ------
 3.25-3.28   &ensp; 广东·深圳  
-我报名注册了[ICAC](https://icacworkshop.cn/)会议
-![image](https://igxjiang.github.io/images/ICAC.png)
+我报名注册了[ICAC](https://icacworkshop.cn/)会议，这是我第一次参加正式的学术会议，极大开阔了我的眼界
+![image](https://igxjiang.github.io/images/ICAC2.jepg)
 
 
 
 
 3.7-3.9   &ensp;  广东·广州  
-作为博士优先录取营的营员，访问香港科技大学（广州），我参观了港科广的芯片中央实验室，也结交到了一些好朋友。   
+作为博士优先录取营的营员，访问香港科技大学（广州），我参观了港科广的芯片中央实验室，也结交到了一些好朋友。  
 这也是我第二次拜访广州，一个繁华的国际大都市!👋  
 
 <center>
@@ -107,7 +107,7 @@ Footprint-足迹
 </center>
 
 2.19-2.23  &ensp;  安徽·合肥  
-和师兄一同前往中国科大微电子学院智能探测与成像实验室，学习芯片测试  
+和师兄一同前往中国科大微电子学院智能探测与成像实验室    
 ![image](https://igxjiang.github.io/images/hf.jpg)  
 
 2024年
