@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "image.png"  
   name             : "蒋光鑫（GuangxinJiang）"  
-  pronouns         : He  
+  pronouns         : "He"  
   bio              : "Courage  Dream  Passion"  
   location         : "湖北武汉"  
   employer         : "Huazhong University of Science and Technology"  
-  uri              : igxjiang.github.io  
+  uri              : "igxjiang.github.io"  
   email            : "jgx@hust.edu.cn"   
 
   # Academic websites
