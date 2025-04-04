@@ -125,7 +125,7 @@ Footprint-足迹
 ------  
 7.15-7.30   &ensp;  湖北·恩施  
 在来凤县，我和同学们支教了半个月  
-![image](https://igxjiang.github.io/images/xiaogan.jpg)
+![image](https://igxjiang.github.io/images/zhijiao.jpg)
  
 
 
