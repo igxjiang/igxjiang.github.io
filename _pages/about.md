@@ -17,8 +17,8 @@ redirect_from:
 Education-教育经历
 ======
 2022.9-now  &ensp;&thinsp;&thinsp;  华中科技大学   
-加权成绩：86.95    &ensp; rank：6/55   
-大一83.3-→大二89.0-→大三89.9  
+加权成绩：87.04    &ensp; rank：6/55   
+大一83.3-→大二89.0-→大三90.2    
 
 <details>
 <summary> before2022 </summary>
