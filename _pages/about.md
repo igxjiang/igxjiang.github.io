@@ -91,10 +91,7 @@ Footprint-足迹
 ------
 3.25-3.28   &ensp; 广东·深圳  
 我报名注册了[ICAC](https://icacworkshop.cn/)会议，这是我第一次参加正式的学术会议，极大开阔了我的眼界
-![image](https://igxjiang.github.io/images/ICAC2.jpeg)
-
-
-
+![image](https://igxjiang.github.io/images/ICAC1.jpeg)
 
 3.7-3.9   &ensp;  广东·广州  
 作为博士优先录取营的营员，访问香港科技大学（广州），我参观了港科广的芯片中央实验室，也结交到了一些好朋友。  
@@ -116,7 +113,8 @@ Footprint-足迹
 10.27   &ensp; 湖北·孝感  
 孝感马拉松（半程）用时：1小时51分32秒  
 第一次完成半程马拉松！  
-![image](https://igxjiang.github.io/images/xiaogan.jpg)
+![image](https://igxjiang.github.io/images/xiaogan.jpg)  
+
 7.21-7.26  &ensp;  海南·三亚  
 全国大学生生物医学工程创新设计竞赛  
 第一次乘坐飞机，也是第一次做海报展示，真的太酷了！  
