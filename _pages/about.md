@@ -126,12 +126,7 @@ Footprint-足迹
 在来凤县，我和同学们支教半个月  
 ![image](https://igxjiang.github.io/images/zhijiao.jpg)
  
-<?php
-$ip = $_SERVER['REMOTE_ADDR']; // 获取 IP
-// 连接数据库并存储
-$conn = new mysqli("localhost", "user", "password", "database");
-$conn->query("INSERT INTO visits (ip) VALUES ('$ip')");
-?>
+
 <script 
   type="text/javascript" 
   id="clustrmaps" 
