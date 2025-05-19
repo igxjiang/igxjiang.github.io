@@ -117,13 +117,13 @@ Footprint-足迹
 7.21-7.26  &ensp;  海南·三亚  
 全国大学生生物医学工程创新设计竞赛  
 第一次乘坐飞机，也是第一次做海报展示，真的太酷了！  
-![image](https://igxjiang.github.io/images/sanya.jpg)
+![image](https://igxjiang.github.io/images/sanya.jpg)  
 
 2023年
 ------  
 7.15-7.30   &ensp;  湖北·恩施  
 在来凤县，我和同学们支教半个月  
-![image](https://igxjiang.github.io/images/zhijiao.jpg)
+![image](https://igxjiang.github.io/images/zhijiao.jpg)  
  
 
 <script 
