@@ -1,49 +1,130 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "华中科技大学-蒋光鑫"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+# 欢迎您的访问！
 
-A data-driven personal website
+---
+华中科技大学大三本科在读，来自安徽六安。  
+未来我希望保研（直博），欢迎与老师取得联系，这是[我的微信](https://igxjiang.github.io/images/wechat.jpg)  
+目前我的网站还在建设中，内容还在上传...   
+
+Education-教育经历
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2022.9-now  &ensp;&thinsp;&thinsp;  华中科技大学   
+加权成绩：86.95    &ensp; rank：6/55   
+大一83.3-→大二89.0-→大三89.9  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<details>
+<summary> before2022 </summary>
+  
+2019.9-2022.6 安徽省霍邱县第一中学 2022届30班  
+  
+2016.9-2019.6 霍邱县农机校初中部 2019届12班  
 
-Getting started
+2015.9-2016.6 周集镇志立小学  
+
+2010.9-2015.6 蒋郢小学  
+
+</details>
+
+
+Scores-部分课程成绩
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+电路理论（97）模拟电子技术（85）CMOS模拟集成电路基础（86）  
+数理方程与特殊函数（97）信号与线性系统（96）    
+数字集成电路（90） 半导体器件物理（91）  
+CET-6（511） &ensp; 通过计算机等级考试（三级网络技术）
 
-Site-wide configuration
+Project Experience-项目经历
+======
+2024.10-now   &ensp;&ensp;&ensp;  [数字PET实验室](https://idil.ustc.edu.cn/32986/list.htm)  &ensp;&ensp;[谢庆国](https://sme.ustc.edu.cn/2023/0822/c30996a610384/)（国家杰青HUST&USTC）  
+内容：参与设计面向新型全数字硅光电倍增器（MT-SiPM）的核心模块时间数字转换器（TDC），完成脉冲上升下降沿检测、延时控制单元、测量通道等部分电路，正在进行测量精度控制模块的设计。另外针对PET探测器多通道阵列信号的不一致性，提出树状对称布线方案，大幅减小通道间因RC寄生效应导致的延时差异。
+
+2024.04-2024.07  &ensp;&ensp;  [王植炜](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm)（武汉光电国家研究中心）  
+基于机器学习的青少年早期抑郁症检测  
+内容：基于抑郁症患者和健康人的心电、脑电两种模态数据， 建立支持向量机（SVM）和卷积神经网络（CNN-LSTM）模型，创新性地提出了“抑郁片段比例”的概念，解决了样本量不平衡的问题，有效实现对青少年早期抑郁症的筛查和检测。这是我们的[答辩ppt](BME2024.pptx)和[展示海报](海报1654-打印.pdf)。
+
+Interests-研究兴趣
+======
+模拟or数模混合集成电路设计，主要的研究兴趣包括信号链（如ADC、TDC等）、传感器（如可穿戴设备、植入式设备等）、脑机接口芯片等，目前也在学习射频集成电路。  
+
+Publication-出版物  
+暂时没有，相信我会在2025或2026收获处子作。  
+当前基于我们的TDC芯片研究，我产生了一些优化改进的idea，目前还处于可行性验证阶段。  
+
+Q&A  
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+<details><summary> 1.为什么想攻读博士学位？ </summary>
+在大学的学习过程中，我逐渐发现自己对电路（电路理论、模电等）具有浓厚的兴趣，想更深入地学习了解IC。  
+选择攻读博士学位，一方面是受我哥哥影响，另一方面是因为未来想走学术、教职这条路，因此博士学位是必须的。我喜欢高校、研究所的氛围，喜欢和老师同学们交流学术问题的感觉。做科研也是我高中时期或者更前阶段的梦想，当时觉得科研很酷，现在可能觉得没有那么那么的高大上，但是我仍然想去探索未知。  </details>
+  
+
+<details><summary> 
+2.如果在读博的过程中发现自己不适合科研怎么办？ </summary>
+作为一个大三的本科生，其实并没有接触真正的科研，我觉得上述可能性是存在的。但是既然是自己做出的选择，不管再难都要坚持走下去。过去我也遇到过很多很多困难的事情，当时也都是看起来不可能做到的，因此对于读博我也是有信心的。  </details>
+  
+
+<details><summary> 
+3.你过去遭遇了哪些挫折和困难？ </summary>
+从小到大的求学过程中遇到很多，比如大一刚进来的时候成绩挺一般的。那时候就很自卑，大二拿到了国家励志奖学金，但是我始终感觉这是凭政策的。大三终于拿到了国家奖学金，把“励志”这两个字去掉了，证明了自己也不比别人差。还有本科进实验室也挺曲折的，尝试了很多，不过最终还是找到了合适的组，就是还没有什么产出。 </details>
+
+Honors-荣誉
+======
+2024.11：获得国家奖学金（全国top0.4%）  
+2024.10：获得华中科技大学三好学生（全校top5%）  
+2024.08：获得中国机器人及人工智能大赛全国优秀奖  
+2023.12：获得华中科技大学数学建模一等奖  
+2023.11：获得全国大学生数学竞赛二等奖  
+2023.10：获得国家励志奖学金  
+
+Footprint-足迹
+======
+
+2025年 
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+3.25-3.28   &ensp; 广东·深圳  
+我报名注册了[ICAC](https://icacworkshop.cn/)会议，这是我第一次参加正式的学术会议，极大开阔了我的眼界
+![image](https://igxjiang.github.io/images/ICAC2.jpeg)
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+
+3.7-3.9   &ensp;  广东·广州  
+作为博士优先录取营的营员，访问香港科技大学（广州），我参观了港科广的芯片中央实验室，也结交到了一些好朋友。  
+这也是我第二次拜访广州，一个繁华的国际大都市!👋  
+
+<center>
+<figure>
+<img src="https://igxjiang.github.io/images/boyou.jpg" />
+<img src="https://igxjiang.github.io/images/gz.jpg" />
+</figure>
+</center>
+
+2.19-2.23  &ensp;  安徽·合肥  
+和师兄一同前往中国科大微电子学院智能探测与成像实验室    
+![image](https://igxjiang.github.io/images/hf.jpg)  
+
+2024年
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+10.27   &ensp; 湖北·孝感  
+孝感马拉松（半程）用时：1小时51分32秒  
+第一次完成半程马拉松！  
+![image](https://igxjiang.github.io/images/xiaogan.jpg)
+7.21-7.26  &ensp;  海南·三亚  
+全国大学生生物医学工程创新设计竞赛  
+第一次乘坐飞机，也是第一次做海报展示，真的太酷了！  
+![image](https://igxjiang.github.io/images/sanya.jpg)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2023年
+------  
+7.15-7.30   &ensp;  湖北·恩施  
+在来凤县，我和同学们支教半个月  
+![image](https://igxjiang.github.io/images/zhijiao.jpg)
+ 
