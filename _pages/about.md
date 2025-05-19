@@ -136,5 +136,5 @@ Footprint-足迹
 <script 
   type="text/javascript" 
   id="clustrmaps" 
-  src="//igxjiang.github.io/map_v2.js?d=YOUR_ID&cl=ffffff&w=a&isv=1">
-</script>
+  src="//clustrmaps.com/map_v2.js?d=YOUR_ID&cl=ffffff&w=a&isv=1">
+</script>  
