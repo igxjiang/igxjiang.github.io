@@ -99,7 +99,6 @@ Footprint-足迹
 
 <center>
 <figure>
-<img src="https://igxjiang.github.io/images/boyou.jpg" />
 <img src="https://igxjiang.github.io/images/gz.jpg" />
 </figure>
 </center>
@@ -113,7 +112,7 @@ Footprint-足迹
 10.27   &ensp; 湖北·孝感  
 孝感马拉松（半程）用时：1小时51分32秒  
 第一次完成半程马拉松！  
-![image](https://igxjiang.github.io/images/xiaogan.jpg)  
+![image](https://igxjiang.github.io/images/xiaogan.png)  
 
 7.21-7.26  &ensp;  海南·三亚  
 全国大学生生物医学工程创新设计竞赛  
@@ -130,5 +129,5 @@ Footprint-足迹
 <script 
   type="text/javascript" 
   id="clustrmaps" 
-  src="//clustrmaps.com/map_v2.js?d=YOUR_ID&cl=ffffff&w=a&isv=1">
+  src="//igxjiang.github.io/map_v2.js?d=YOUR_ID&cl=ffffff&w=a&isv=1">
 </script>
