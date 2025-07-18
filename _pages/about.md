@@ -90,6 +90,23 @@ Footprint-足迹
 
 2025年 
 ------
+
+7.19-8.30   &ensp; 香港·香港科技大学
+我来到了香港科技大学，进行为期一个多月的暑期实习  
+![image](https://igxjiang.github.io/images/hk.jpg)  
+
+7.14-7.17   &ensp; 浙江·西湖大学
+我参加了西湖大学工学院夏令营，参与了丰富多彩的活动，并参观了先进神经芯片中心。这是我体验感最好最好的一个夏令营！  
+![image](https://igxjiang.github.io/images/wlu.jpg) 
+
+7.9-7.10   &ensp; 浙江·浙江大学
+我参加了浙江大学集成电路学院夏令营，参与前沿所的面试活动。  
+![image](https://igxjiang.github.io/images/zju.jpg) 
+
+
+7.8-7.9   &ensp; 上海·复旦大学
+这是我第一次来上海，也是参加的第一个暑期夏令营  
+
 3.25-3.28   &ensp; 广东·深圳  
 我报名注册了[ICAC](https://icacworkshop.cn/)会议，这是我第一次参加正式的学术会议，极大开阔了我的眼界
 ![image](https://igxjiang.github.io/images/ICAC1.jpeg)  
