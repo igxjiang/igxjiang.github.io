@@ -26,7 +26,7 @@ I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a 
 - *2024.11*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.4% national-wide).
 - *2024.10*: &nbsp; I joined the [**digital PET lab**](https://petlab.hust.edu.cn/) as undergraduate researcher with the guidance of Prof.Xie and Mr.Zhilong Li.
 - *2023.10*: &nbsp; I won the **National Encouraged Scholarship**.
-- *2022.09*: &nbsp; I was Admitted to **HUST**.
+- *2022.09*: &nbsp; I was Admitted to **HUST**.🥳
 
 
 ## Project Experience
@@ -39,14 +39,19 @@ Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data 
 
 ---
 
+## Education
+
+- **Huazhong University of Science and Technology** (*2022 – 2026*)
+
+- **Anhui Provence Huoqiu No.1 Middle School** (*2019 – 2022*)
+
+---
+
 ## Selected Courses
-CMOS Anolog Integrated circuits(86)  
-
-Digital Integrated circuits (90)  
-
-Device Physics(91)  
-
-RF Integrated circuits(96)  
+- CMOS Anolog Integrated circuits(86)  
+- Digital Integrated circuits (90)  
+- Device Physics(91)  
+- RF Integrated circuits(96)  
 
 ---
 
@@ -60,14 +65,10 @@ RF Integrated circuits(96)
 - **HUST Mathmatical Modeling Compitition First Prize**
 
 ---
-
-## Education
-
-- **Huazhong University of Science and Technology** (*2022 – 2026*)
-
-- **Anhui Provence Huoqiu No.1 Middle School** (*2019 – 2022*)
-
----
+## Skills
+- **Programming**(Python, Matlab, C/C++)
+- **Circuit Design**(Candence Virtuoso, LTspiec, C/C++)
+- **Microsoft Office** (Word, Excel, PPT)
 
 ## Footprint
 I enjoy the feeling of journey.  
@@ -75,42 +76,42 @@ My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.
 
 2025
 --
-*7.14-7.17 &ensp; Hangzhou Zhejiang*  
+- *7.14-7.17 &ensp; Hangzhou·Zhejiang*  
 I participated in engineering summer camp of westlake university and visited [CenBRAIN Neurotech Center](https://cenbrain.westlake.edu.cn/index.htm).I was honored to listen to Academician Dai Qionghai's report and take a group photo with him.
 
-*7.9-7.10 &ensp; Hangzhou Zhejiang*  
+- *7.9-7.10 &ensp; Hangzhou·Zhejiang*  
 I participated in summer camp of School of IC,Zhejiang University. It's my first time to visit hangzhou. 
 
-*7.8-7.9  &ensp; &ensp; Shanghai*    
+- *7.8-7.9  &ensp; &ensp; Shanghai*    
 I participated in summer camp of School of BME,Fudan University. It's my first time to visit Shanghai. 
 
-*3.30  &ensp; Xiaotao Hubei*  
+- *3.30  &ensp; &ensp;&ensp; Xiaotao·Hubei*  
 I competed Xiantao half marathon with the PB(personal best) score of 1:44：23 
 
-
-*3.25-3.28  &ensp; Shenzhen Guangdong*  
+- *3.25-3.28  &ensp; Shenzhen·Guangdong*  
 I registered the ICAC workshop which invents many Chinese guests in IC design. It's the first academic meeting I have participate and also my first time to visit Shenzhen. 
 
-*3.7-3.9 &ensp; Guangzhou Guangdong*  
+- *3.7-3.9 &ensp; Guangzhou·Guangdong*  
 I was honored to pass the PhD Admission Early Camp of the Hong Kong University of Science and Technology (Guangzhou).
 
-*2.19-2.23 &ensp; Hefei Anhui*  
+- *2.19-2.23 &ensp; Hefei·Anhui*  
 I went to the Intelligent Detection and Imaging Lab of the School of Microelectronics of USTC with Dr.Zhilong Li.
  
 2024
 --
-*10.27 &ensp; Xiaogan·Hubei*  
+- *10.27 &ensp;&ensp;  Xiaogan·Hubei*  
 I competed half marathon for the first time with the score of 1:51：34  
-*7.21-7.26 &ensp; Sayan·Hainan*    
+- *7.21-7.26 &ensp; Sayan·Hainan*    
 I participated in the National College Student Biomedical Engineering Innovation Design Competition and made poster presentations for the first time.
-
 
 2023
 --  
-*7.15-7.30   &ensp;  Laifeng·Hubei*  
-[My classmates and I have been teaching for half a month](https://mp.weixin.qq.com/s/d3KV-QBX14pxWGJZ6jlsLw)
+- *7.15-7.30   &ensp;  Laifeng·Hubei*  
+[My classmates and I have been teaching there for half a month](https://mp.weixin.qq.com/s/d3KV-QBX14pxWGJZ6jlsLw)
 
 ---
 
+Friendship Links  
+[Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
 
 *Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*
