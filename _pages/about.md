@@ -14,22 +14,16 @@ Fortunately, I was supervised by Prof. [**Qingguo Xie**](https://sme.ustc.edu.cn
 
 My research focuses on sensors systems and Analog integreted circuits design.
 
-I’m seeking a PhD position in 2026 fall. And you are welcomed to reach out to me for discussion!
+I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a professor in university.And feel free to reach out to me for discussion!
 
 
 ## News
-- *2025.06*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">MultiVerse</span> has been accepted by **ICCV 2025**. 
-- *2025.06*: &nbsp; 🎓 I obtained my Bachelor of Engineering (B.E.) degree and selected as **Outstanding Undergraduate**.
-- *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">VLM2-Bench</span> has been accepted by **ACL 2025** (Main) and <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">Bridge-Coder</span> has been accepted by **ACL 2025** (Findings). 
-- *2025.05*: &nbsp; I won the **Lei Jun Computer Breakthrough Award** (50K RMB). 
-- *2025.05*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">CAN</span> has been accepted by **ICML 2025**. 
-- *2025.01*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">PVIT</span> has been accepted by **ICLR 2025**. 
-- *2024.11*: &nbsp; Dataset of [PVIT-3M](https://huggingface.co/datasets/Sterzhang/PVIT-3M) made it to the **Top 3 Dataset downloads** [November 2024] at HuggingFace🤗! [（Post from X）](https://x.com/mvaloatto/status/1865102836092277077)
-- *2024.10*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.2% national-wide).
-- *2024.09*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">Image Textualization</span> has been accepted by **NeurIPS 2024** (D&B track). 
-- *2024.09*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">MLLM-Protector</span>, <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">FIRST</span> have been accepted by **EMNLP 2024** (Main). 
-- *2024.03*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">CORE</span> has been accepted by **Cogsci 2024** <strong><span style="color:red;">[Oral]</span></strong>.
-- *2023.12*: &nbsp; <span style="font-family: 'Courier New', monospace; font-weight: bold; color:rgb(14, 14, 13);">FuzzLLM</span> has been accepted by **ICASSP 2024**.
+- *2025.05*: &nbsp; I passed the visiting student program of **HKUST** and plan to start in July.
+- *2025.03*: &nbsp; I founded my personal website.
+- *2024.11*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.4% national-wide).
+- *2024.10*: &nbsp; I joined the **digital PET lab** as undergraduate researcher with the guidance of Prof.Xie and Mr.Zhilong Li.
+- *2023.10*: &nbsp; I won the **National Encouraged Scholarship**.
+- *2022.09*: &nbsp; I was Admitted to **HUST**.
 
 
 ## Selected Publications
@@ -39,6 +33,15 @@ Create a YAML file at `_data/publications.yml` with your publication entries, an
 Then simply include the list here: -->
 
 {% include pub_list.html %}
+
+
+---
+
+## Selected Courses
+CMOS Anolog Integrated circuits(86)
+Digital Integrated circuits (90)
+Device Physics(91)
+RF Integrated circuits(96)
 
 ---
 
@@ -50,6 +53,7 @@ Then simply include the list here: -->
 - **National Robotics and Intellgence Compition Excellent prize**.
 - **National Mathmatical Compitition Second Prize**
 - **HUST Mathmatical Modeling Compitition First Prize**
+
 ---
 
 ## Education
@@ -63,13 +67,7 @@ Then simply include the list here: -->
 ## More
 
 <p>
-I had the privilege of working closely with  
-Prof. <strong>Tong Zhang</strong> (UIUC), Prof. <strong>Paul Liang</strong> (MIT), and Prof. <strong>Yiren Fung</strong> (HKUST),  
-to whom I am deeply grateful for their guidance and support. 🙏
-</p>
-
-<p>
-My leisure time consists of: 🏀, 🎱, 🏓, 🏊, 🏋️, 🎸, 💤.
+My leisure time consists of: ⚽ 💤 (o=^•ェ•)o.
 </p>
 
 ---
