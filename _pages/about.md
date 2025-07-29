@@ -9,11 +9,12 @@ redirect_from:
 
 # About Me
 
-Hi! I’m **Jianshu Zhang (张鉴殊)**. I’ll begin my PhD in Computer Science at **Northwestern University** in Fall 2025, fortunately advised by Prof. [**Manling Li**](https://limanling.github.io/) and Prof. [**Han Liu**](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/liu-han.html).
+Hi! I’m **Guangxin Jiang (蒋光鑫)** ,currently a Final year undergraduate student in Huazhong University of Science and Technology(HUST). I am majoring in Biomedical Engineering with a keen interest in microelectrioncs.
+Fortunately, I was supervised by Prof. [**Qingguo Xie**](https://sme.ustc.edu.cn/2023/0822/c30996a610384/) and Prof. [**Zhiwei Wang**](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm) during my undergraduate studies.
 
-My research focuses on Multimodal Learning, Agentic AI, and Spatial Understanding.
+My research focuses on sensors systems and Analog integreted circuits design.
 
-I’m always keen to discuss new ideas and collaborations—feel free to reach out!
+I’m seeking a PhD position in 2026 fall. And you are welcomed to reach out to me for discussion!
 
 
 ## News
@@ -53,11 +54,9 @@ Then simply include the list here: -->
 
 ## Education
 
-- **Northwestern University** (*2025 - 2030*)
+- **Huazhong University of Science and Technology** (*2022 – 2026*)
 
-- **Wuhan University** (*2021 – 2025*)
-
-- **Shenzhen Middle School** (*2018 – 2021*)
+- **Anhui Provence Huoqiu No.1 Middle School** (*2019 – 2022*)
 
 ---
 
