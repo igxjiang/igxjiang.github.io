@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Guangxin Jiang"
-  avatar           : "jgx.png"
+  avatar           : "https://github.com/igxjiang/igxjiang.github.io/blob/main/images/jgx.png"
   bio              : "Undergraduate @ HUST"
   location         : 
   employer         :
