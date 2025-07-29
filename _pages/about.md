@@ -67,9 +67,8 @@ Here are our [slides](BME2024.pptx)
 ---
 ## Skills
 - **Programming**(Python, Matlab, C/C++)
-- **Circuit Design**(Candence Virtuoso, LTspiec, C/C++)
+- **Circuit Design**(Candence Virtuoso, LTspiec, NI Multisim)
 - **Microsoft Office** (Word, Excel, PPT)
-
 
 
 ## Footprint
