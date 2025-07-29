@@ -36,9 +36,6 @@ Before joining the project team, I also completed scientific research training (
 - *2024.04-2024.07*: &nbsp; Biomedical signal classification.  
 Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data from both depression patients and healthy individuals, Support Vector Machine (SVM) and Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) models were established. Innovatively proposing the concept of "depressive episode proportion," this approach addresses the issue of imbalanced sample sizes and effectively achieves screening and detection of early-stage depression in adolescents.
 
-# {% include pub_list.html %}
-
-
 ---
 
 ## Selected Courses
@@ -71,11 +68,41 @@ RF Integrated circuits(96)
 
 ---
 
-## More
-
-<p>
+## Footprint
 My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.
-</p>
+
+2025
+--
+7.14-7.17  Hangzhou Zhejiang
+I participated in engineering summer camp of westlake university and visited [CenBRAIN Neurotech Center](https://cenbrain.westlake.edu.cn/index.htm).I was honored to listen to Academician Dai Qionghai's report and take a group photo with him.
+
+7.9-7.10  Hangzhou Zhejiang
+I participated in summer camp of School of IC,Zhejiang University. It's my first time to visit hangzhou. 
+
+7.8-7.9  Shanghai
+I participated in summer camp of School of BME,Fudan University. It's my first time to visit Shanghai. 
+
+3.25-3.28  Shenzhen GuangDong
+I registered the ICAC workshop which invents many Chinese guests in IC design. It's the first academic meeting I have participate and also my first time to visit Shenzhen. 
+
+3.7-3.9 Guangzhou GuangDong
+I was honored to pass the PhD Admission Early Camp of the Hong Kong University of Science and Technology (Guangzhou).
+
+2.19-2.23 hefei AnHui 
+I went to the Intelligent Detection and Imaging Lab of the School of Microelectronics of USTC with Dr.Zhilong Li.
+ 
+2024
+--
+10.27 &ensp; Xiaogan·Hubei  
+I competed half marathon for the first time with the score of 1:51：32  
+7.21-7.26   &ensp; Sayan·Hainan  
+I participated in the National College Student Biomedical Engineering Innovation Design Competition and made poster presentations for the first time.
+
+
+2023
+--  
+7.15-7.30   &ensp;  Laifeng·Hubei  
+[My classmates and I have been teaching for half a month](https://mp.weixin.qq.com/s/d3KV-QBX14pxWGJZ6jlsLw)
 
 ---
 
