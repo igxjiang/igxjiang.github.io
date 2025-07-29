@@ -74,14 +74,8 @@ Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data 
 
 ## Footprint
 
-
 I enjoy the feeling of journey.  
 My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.   
-
-<div style="width: 500px; height: 300px; overflow-x: scroll;">
-  <!-- 这里是你想要放置内容的区域 -->
-</div>
-
 
 2025
 --
@@ -119,7 +113,7 @@ I participated in the National College Student Biomedical Engineering Innovation
 [My classmates and I have been teaching there for half a month](https://mp.weixin.qq.com/s/d3KV-QBX14pxWGJZ6jlsLw)
 
 ---
-</div> ```
+
 
 Friendship Links  
 [Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
