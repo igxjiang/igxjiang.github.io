@@ -115,7 +115,8 @@ I participated in the National College Student Biomedical Engineering Innovation
 ---
 
 
-Friendship Links  
-[Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
+*Friendship Links:*
+- [Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
+- [Jayton@BU](https://jayton.notion.site/Jiatong-Guo-72a7df57e871451e83c9c2e4018af409)
 
 *Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*
