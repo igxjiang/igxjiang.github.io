@@ -74,10 +74,14 @@ Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data 
 
 ## Footprint
 
-<div style="overflow-y: auto; max-height: 200px;">
-```
+
 I enjoy the feeling of journey.  
 My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.   
+
+<div style="width: 500px; height: 300px; overflow-x: scroll;">
+  <!-- 这里是你想要放置内容的区域 -->
+</div>
+
 
 2025
 --
