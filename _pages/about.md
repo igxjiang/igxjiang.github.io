@@ -70,7 +70,12 @@ Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data 
 - **Circuit Design**(Candence Virtuoso, LTspiec, C/C++)
 - **Microsoft Office** (Word, Excel, PPT)
 
+
+
 ## Footprint
+
+<div style="overflow-y: auto; max-height: 200px;">
+```
 I enjoy the feeling of journey.  
 My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.   
 
@@ -110,6 +115,7 @@ I participated in the National College Student Biomedical Engineering Innovation
 [My classmates and I have been teaching there for half a month](https://mp.weixin.qq.com/s/d3KV-QBX14pxWGJZ6jlsLw)
 
 ---
+</div> ```
 
 Friendship Links  
 [Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
