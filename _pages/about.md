@@ -29,12 +29,8 @@ I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a 
 
 
 ## Selected Publications
-Full list → [Google Scholar](https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en).
-<!-- The publication list is now modular.  
-Create a YAML file at `_data/publications.yml` with your publication entries, and an include file at `_includes/pub_list.html` that loops through them.  
-Then simply include the list here: -->
 
-{% include pub_list.html %}
+# {% include pub_list.html %}
 
 
 ---
