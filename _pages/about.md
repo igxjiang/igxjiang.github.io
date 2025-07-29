@@ -40,10 +40,13 @@ Then simply include the list here: -->
 ---
 
 ## Selected Courses
-CMOS Anolog Integrated circuits(86)
-Digital Integrated circuits (90)
-Device Physics(91)
-RF Integrated circuits(96)
+CMOS Anolog Integrated circuits(86)  
+
+Digital Integrated circuits (90)  
+
+Device Physics(91)  
+
+RF Integrated circuits(96)  
 
 ---
 
