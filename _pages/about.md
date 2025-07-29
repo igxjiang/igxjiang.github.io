@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I’m **Guangxin Jiang (蒋光鑫)** ,currently a Final year undergraduate student in Huazhong University of Science and Technology(HUST). I am majoring in Biomedical Engineering with a keen interest in microelectrioncs.
 Fortunately, I was supervised by Prof. [**Qingguo Xie**](https://sme.ustc.edu.cn/2023/0822/c30996a610384/) and Prof. [**Zhiwei Wang**](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm) during my undergraduate studies.
-I am now a visiting student at HKUST,supervised by Prof.[**Zhiyong Fan**](https://eezfan.home.ece.ust.hk/)
+I am now a visiting student at HKUST,supervised by Prof.[**Zhiyong Fan**](https://seng.hkust.edu.hk/about/people/faculty/zhiyong-fan)
 
 My research focuses on sensors systems and Analog integreted circuits design.
 
@@ -116,6 +116,7 @@ I participated in the National College Student Biomedical Engineering Innovation
 
 
 *Friendship Links:*
+- [Fan lab@HKUST](https://eezfan.home.ece.ust.hk/)
 - [Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
 - [Jayton@BU](https://jayton.notion.site/Jiatong-Guo-72a7df57e871451e83c9c2e4018af409)
 
