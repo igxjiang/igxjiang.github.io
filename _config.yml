@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guangxin Jiang"
   avatar           : "images/jgx.png"
-  bio              : "Undergraduate @ HUST"
-  location         : 
+  bio              : "Undergraduate@HUST"
+  location         : 1037Road Wuhan·China
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en"
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : # "SterZhang"
   vine             :
-  weibo            :
+  wechat           :"images/wechat.png"
   xing             :
   youtube          :
   wikipedia        :
