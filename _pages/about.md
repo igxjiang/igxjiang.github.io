@@ -44,12 +44,12 @@ Then simply include the list here: -->
 
 ## Awards
 
-- **National Scholarship**.
-- **Lei Jun Computer Breakthrough Award** (💰50K RMB).
-- **Outstanding Undergraduate**
-- **First‑Class Scholarship** (ranked 1st).
+- **National Scholarship**.(💰10K RMB)
+- **Notioanal Encourgement Scholarshhip**.(💰5K RMB)
 - **Merit Student**.
-
+- **National Robotics and Intellgence Compition Excellent prize**.
+- **National Mathmatical Compitition Second Prize**
+- **HUST Mathmatical Modeling Compitition First Prize**
 ---
 
 ## Education
