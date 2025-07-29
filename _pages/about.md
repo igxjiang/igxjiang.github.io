@@ -36,7 +36,7 @@ Before joining the project team, I also completed scientific research training (
 
 - *2024.04-2024.07*: &nbsp; Biomedical signal classification  
 Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data from both depression patients and healthy individuals, Support Vector Machine (SVM) and Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) models were established. Innovatively proposing the concept of "depressive episode proportion," this approach addresses the issue of imbalanced sample sizes and effectively achieves screening and detection of early-stage depression in adolescents.
-
+Here are our [slides](files/BME2024.pptx)
 ---
 
 ## Education
