@@ -21,7 +21,7 @@ I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a 
 - *2025.05*: &nbsp; I passed the visiting student program of **HKUST** and plan to start in July.
 - *2025.03*: &nbsp; I founded my personal website.
 - *2024.11*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.4% national-wide).
-- *2024.10*: &nbsp; I joined the **digital PET lab** as undergraduate researcher with the guidance of Prof.Xie and Mr.Zhilong Li.
+- *2024.10*: &nbsp; I joined the [**digital PET lab**](https://petlab.hust.edu.cn/) as undergraduate researcher with the guidance of Prof.Xie and Mr.Zhilong Li.
 - *2023.10*: &nbsp; I won the **National Encouraged Scholarship**.
 - *2022.09*: &nbsp; I was Admitted to **HUST**.
 
@@ -67,7 +67,7 @@ RF Integrated circuits(96)
 ## More
 
 <p>
-My leisure time consists of: ⚽ 💤 (o=^•ェ•)o.
+My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.
 </p>
 
 ---
