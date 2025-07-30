@@ -130,4 +130,4 @@ Since it's my choice, I will keep going no matter how difficult it is.</details>
 
 -----
 
-<p align="center">© Guangxin Jiang(Kaisen)</p>
+<p align="center">© 2025 Guangxin Jiang(Kaysen)</p>
