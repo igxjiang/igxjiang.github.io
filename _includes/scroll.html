@@ -8,17 +8,18 @@
     <style>
         /* Swiper容器样式 */
         .swiper-container {
-            width: 70%;
-            height: auto; /* 设置滚动图的高度 */
-            /*object-fit: contain; 确保图片完整显示，可能会留白 */
-}        
+            width: 70%; /* 容器宽度为页面宽度的70% */
+            height: auto; /* 高度根据内容自动调整 */
+            aspect-ratio: 16 / 9; /* 如果需要固定宽高比，设置宽高比 */
+            margin: 0 auto; /* 居中对齐 */
+            position: relative; /* 确保子元素可以使用绝对定位 */
         }
 
         /* 图片样式 */
         .swiper-slide img {
-            width: 70%;
-            height: auto;
-            object-fit: cover; /* 确保图片自适应容器 */
+            width: 100%;       /* 图片宽度占满容器 */
+            height: 100%;      /* 图片高度占满容器 */
+            object-fit: contain; /* 确保图片完整显示，可能会有留白 */
         }
 
         /* 隐藏不在当前轮展示的图片 */
@@ -31,7 +32,15 @@
             opacity: 1; /* 仅当前展示的图片可见 */
         }
 
-        /* 自定义分页器样式 */
+        /* 分页器样式 */
+        .swiper-pagination {
+            position: absolute;
+            bottom: 20px; /* 距离图片底部 20px */
+            left: 50%;
+            transform: translateX(-50%); /* 居中对齐 */
+            z-index: 10; /* 确保分页器在图片之上 */
+        }
+
         .swiper-pagination-bullet {
             background-color: #fff; /* 白色分页器 */
             opacity: 0.7;
@@ -39,6 +48,24 @@
 
         .swiper-pagination-bullet-active {
             background-color: #007bff; /* 活动状态的分页器颜色 */
+        }
+
+        /* 左右切换按钮样式 */
+        .swiper-button-next,
+        .swiper-button-prev {
+            color: #fff; /* 按钮颜色为白色 */
+            position: absolute;
+            top: 50%; /* 垂直居中 */
+            transform: translateY(-50%); /* 修正居中偏移 */
+            z-index: 10; /* 确保按钮在图片之上 */
+        }
+
+        .swiper-button-next {
+            right: 10px; /* 距离图片右侧 10px */
+        }
+
+        .swiper-button-prev {
+            left: 10px; /* 距离图片左侧 10px */
         }
     </style>
 </head>
