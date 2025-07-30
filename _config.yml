@@ -120,7 +120,7 @@ kramdown:
 
 collections:
   Blogs:
-    permalink: /Blogs/:path/
+    permalink: /blogs/:path/
     output: true
 
 
@@ -134,15 +134,15 @@ defaults:
       layout: default
       author_profile: true
  
-  # _teaching
   - scope:
-      path: ""
-      type: _blogs
+      path: "_blogs"
+      type: "blogs" 
     values:
-      layout: signal
+      layout: signal  
       author_profile: true
       share: true
-      comments: true
+      comments: false  
+      show_date: true
 
 
 # Sass/SCSS
