@@ -1,57 +1,183 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>课题组成果展示</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="container">
-        <div class="news-list">
-            <div class="news-item">
-                <span class="arrow">»</span>
-                <span class="title">课题组老师同学主编和出版了《集成电路与嵌入式系统》智能机器人高能效专用芯片研究专栏论文</span>
-            </div>
-            <div class="news-item">
-                <span class="arrow">»</span>
-                <span class="title">课题组存算一体AI芯片研究成果入选IEEE集成电路设计与技术国际会议最佳论文</span>
-            </div>
-            <div class="news-item">
-                <span class="arrow">»</span>
-                <span class="title">课题组协办光电融合双创基地成功主办第二期光电融合芯片主题系列讲座</span>
-            </div>
-            <div class="news-item">
-                <span class="arrow">»</span>
-                <span class="title">课题组老师指导的超实验班50%保研率的集成电路2022班毕业离校</span>
-            </div>
-            <div class="news-item">
-                <span class="arrow">»</span>
-                <span class="title">课题组培养的优秀毕业生蒋定城成为本科生毕业典礼发言代表人</span>
-            </div>
-            <div class="news-item">
-                <span class="arrow">»</span>
-                <span class="title">课题组培养的优秀毕业生陈奕弘：潜心向学，厚积薄发</span>
+<div class="main-content">
+    <!-- 博客列表区域 -->
+    <div class="blog-container">
+        <!-- 博客文章1 -->
+        <div class="blog-post">
+            <h2 class="blog-title">课题组承担建设的IEEE华科学生分会与武汉联合分会荣获2025年IEEE集成电路芯片方向学会重要奖项</h2>
+            <div class="blog-meta">Posted on July 15, 2025</div>
+            <div class="blog-content">
+                <p>Our lab is proud to announce that the IEEE Student Branch at Huazhong University of Science and Technology (HUST) and the Wuhan Joint Branch, which our group helped establish, have been awarded significant recognition at the 2025 IEEE Integrated Circuit (IC) Design Conference. This prestigious award recognizes our outstanding contributions to fostering the next generation of IC design professionals and our commitment to building strong academic communities.</p>
+                <p>The achievement would not have been possible without the dedicated effort of our students and collaborators. We look forward to continuing our efforts in promoting IC education and research in the region.</p>
             </div>
         </div>
         
-        <div class="pagination">
-            <div class="pagination-info">
-                <span>共59条</span>
-                <span>1/6</span>
-            </div>
-            <div class="pagination-controls">
-                <a href="#" class="active">首页</a>
-                <a href="#">上页</a>
-                <a href="#">下页</a>
-                <a href="#">尾页</a>
-                <span>转到</span>
-                <input type="text" class="page-input">
-                <span>页</span>
+        <!-- 博客文章2 -->
+        <div class="blog-post">
+            <h2 class="blog-title">课题组培养的首位直博生刘炳强荣获优秀毕业生荣誉并获华为海思大Offer:笃行致远，芯火绽放</h2>
+            <div class="blog-meta">Posted on June 28, 2025</div>
+            <div class="blog-content">
+                <p>We are delighted to share that Mr. Bingqiang Liu, the first PhD student mentored by our group, has been recognized as an Outstanding Graduate of Huazhong University of Science and Technology. Additionally, he has received an offer from HiSilicon (Huawei's semiconductor subsidiary) for a challenging position in chip design.</p>
+                <p>Bingqiang joined our group as an undergraduate and demonstrated exceptional aptitude and work ethic throughout his academic journey. His achievement reflects not only his personal excellence but also the effectiveness of our research training program. We wish him continued success in his career at HiSilicon.</p>
             </div>
         </div>
+        
+        <!-- 其他博客文章... -->
     </div>
     
-    <script src="script.js"></script>
-</body>
-</html>
+    <!-- 分页 -->
+    <div class="pagination">
+        <a href="#" class="active">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">4</a>
+        <a href="#">5</a>
+        <a href="#">6</a>
+        <a href="#">Next &raquo;</a>
+    </div>
+</div>
+
+<!-- 博客内容展开效果的CSS -->
+<style>
+    /* 主内容区域 */
+    .main-content {
+        margin-left: 300px;
+        padding: 30px;
+        flex-grow: 1;
+    }
+    
+    .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    
+    .nav-links a {
+        margin-right: 20px;
+        text-decoration: none;
+        color: #333;
+        font-weight: bold;
+    }
+    
+    .nav-links a:hover {
+        color: #4a89dc;
+    }
+    
+    /* 博客文章样式 */
+    .blog-post {
+        background-color: white;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 30px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    
+    .blog-title {
+        color: #4a89dc;
+        font-size: 22px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        transition: color 0.3s ease;
+    }
+    
+    .blog-title:hover {
+        color: #2a6bc1;
+        text-decoration: underline;
+    }
+    
+    .blog-title:before {
+        content: "▶";
+        margin-right: 10px;
+        transition: transform 0.3s ease;
+        font-size: 12px;
+    }
+    
+    .blog-title.open:before {
+        transform: rotate(90deg);
+    }
+    
+    .blog-meta {
+        font-size: 12px;
+        color: #888;
+        margin-bottom: 15px;
+    }
+    
+    .blog-content {
+        display: none;
+        line-height: 1.6;
+        padding-left: 15px;
+        border-left: 3px solid #eee;
+    }
+    
+    .blog-content.open {
+        display: block;
+        animation: fadeIn 0.5s ease;
+    }
+    
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+    
+    /* 分页样式 */
+    .pagination {
+        display: flex;
+        justify-content: center;
+        margin-top: 30px;
+    }
+    
+    .pagination a {
+        display: inline-block;
+        padding: 8px 12px;
+        margin: 0 5px;
+        border: 1px solid #ddd;
+        text-decoration: none;
+        color: #4a89dc;
+        border-radius: 4px;
+    }
+    
+    .pagination a.active {
+        background-color: #4a89dc;
+        color: white;
+        border-color: #4a89dc;
+    }
+    
+    .pagination a:hover:not(.active) {
+        background-color: #f1f1f1;
+    }
+</style>
+
+<!-- 博客内容交互的JavaScript -->
+<script>
+    // 页面加载完成后绑定事件
+    document.addEventListener('DOMContentLoaded', function() {
+        // 为所有博客标题添加点击事件
+        const blogTitles = document.querySelectorAll('.blog-title');
+        
+        blogTitles.forEach(title => {
+            title.addEventListener('click', function() {
+                const content = this.nextElementSibling.nextElementSibling;
+                
+                // 关闭所有已展开的内容
+                document.querySelectorAll('.blog-content.open').forEach(openContent => {
+                    if (openContent !== content) {
+                        openContent.classList.remove('open');
+                        openContent.previousElementSibling.previousElementSibling.classList.remove('open');
+                    }
+                });
+                
+                // 切换当前标题的状态
+                this.classList.toggle('open');
+                
+                // 切换当前内容的显示状态
+                if (content.classList.contains('open')) {
+                    content.classList.remove('open');
+                } else {
+                    content.classList.add('open');
+                }
+            });
+        });
+    });
+</script>
