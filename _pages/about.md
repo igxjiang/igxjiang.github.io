@@ -126,14 +126,8 @@ Since it's my choice, I will keep going no matter how difficult it is.</details>
 - [Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
 - [Jayton@BU](https://jayton.notion.site/Jiatong-Guo-72a7df57e871451e83c9c2e4018af409)
 
+*Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*
 
 -----
-<center>此行居中</center>
-<p align="center">align居中</p>
-
-<center>*Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*</center>
-<p align="center">*Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*</p>
-
-*Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*
 
 <p align="center">© Guangxin Jiang(Kaisen)</p>
