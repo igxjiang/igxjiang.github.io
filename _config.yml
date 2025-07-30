@@ -120,8 +120,8 @@ kramdown:
 
 
 collections:
-  blogs:
-    permalink: /blogs/:path/
+  Blogs:
+    permalink: /Blogs/:path/
     output: true
 
 
