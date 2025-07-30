@@ -57,9 +57,9 @@ Here are our [slides](BME2024.pptx)
 
 ## Awards
 
-- **National Scholarship**.(💰10K RMB)
-- **Notioanal Encourgement Scholarshhip**.(💰5K RMB)
-- **Merit Student**🎓
+- **National Scholarship**(10K RMB💰)
+- **Notioanal Encourgement Scholarshhip**(5K RMB💰)
+- **Merit Student**(2K RMB💰)
 - **National Robotics and Intellgence Compition Excellent prize**.
 - **National Mathmatical Compitition Second Prize**
 - **HUST Mathmatical Modeling Compitition First Prize**
