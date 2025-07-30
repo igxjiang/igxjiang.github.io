@@ -132,8 +132,19 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: default
+      layout: single
       author_profile: true
+ 
+  # _teaching
+  - scope:
+      path: ""
+      type: Blogs
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
 
 
 # Sass/SCSS
