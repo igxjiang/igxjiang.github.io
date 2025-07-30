@@ -10,16 +10,17 @@
         .swiper-container {
             width: 70%; /* 容器宽度为页面宽度的70% */
             height: auto; /* 高度根据内容自动调整 */
-            aspect-ratio: 16 / 9; /* 固定宽高比16:9 */
+            aspect-ratio: 16 / 9; /* 固定宽高比 */
             margin: 0 auto; /* 居中对齐 */
             position: relative; /* 确保子元素可以使用绝对定位 */
+            overflow: hidden; /* 确保分页器和按钮限制在图片范围内 */
         }
 
         /* 图片样式 */
         .swiper-slide img {
             width: 100%;       /* 图片宽度占满容器 */
             height: 100%;      /* 图片高度占满容器 */
-            object-fit: contain; /* 确保图片完整显示，可能会有留白 */
+            object-fit: cover; /* 填充容器，可能裁剪内容 */
         }
 
         /* 隐藏不在当前轮展示的图片 */
@@ -35,39 +36,44 @@
         /* 分页器样式 */
         .swiper-pagination {
             position: absolute;
-            bottom: 20px; /* 距离图片底部 20px */
+            bottom: 10%; /* 距离图片底部 10% */
             left: 50%;
             transform: translateX(-50%); /* 居中对齐 */
             z-index: 10; /* 确保分页器在图片之上 */
         }
 
         .swiper-pagination-bullet {
-            background-color: #fff; /* 白色分页器 */
-            opacity: 0.7;
+            background-color: rgba(255, 255, 255, 0.7); /* 半透明白色分页器 */
+            width: 10px;
+            height: 10px;
         }
 
         .swiper-pagination-bullet-active {
             background-color: #007bff; /* 活动状态的分页器颜色 */
         }
 
-        /* 左右切换按钮样式 - 修改后的精准居中定位 */
+        /* 左右切换按钮样式 */
         .swiper-button-next,
         .swiper-button-prev {
             color: #fff; /* 按钮颜色为白色 */
             position: absolute;
-            top: 50%; /* 垂直居中基准 */
-            transform: translateY(-50%); /* 垂直居中修正 */
+            top: 50%; /* 垂直居中在图片区域 */
+            transform: translateY(-50%); /* 修正居中偏移 */
             z-index: 10; /* 确保按钮在图片之上 */
-            /* 新增：限制按钮在图片区域内 */
-            margin-top: -15px; /* 微调垂直位置（根据实际效果调整） */
         }
 
         .swiper-button-next {
-            right: 10px; /* 距离图片右侧 10px */
+            right: 5%; /* 距离图片右侧 5% */
         }
 
         .swiper-button-prev {
-            left: 10px; /* 距离图片左侧 10px */
+            left: 5%; /* 距离图片左侧 5% */
+        }
+
+        /* 按钮的鼠标悬停样式 */
+        .swiper-button-next:hover,
+        .swiper-button-prev:hover {
+            color: #007bff; /* 鼠标悬停时变为蓝色 */
         }
     </style>
 </head>
