@@ -19,6 +19,16 @@
             object-fit: cover; /* 确保图片自适应容器 */
         }
 
+        /* 隐藏不在当前轮展示的图片 */
+        .swiper-slide {
+            opacity: 0; /* 初始状态下图片不可见 */
+            transition: opacity 0.5s ease; /* 添加过渡效果 */
+        }
+
+        .swiper-slide-active {
+            opacity: 1; /* 仅当前展示的图片可见 */
+        }
+
         /* 自定义分页器样式 */
         .swiper-pagination-bullet {
             background-color: #fff; /* 白色分页器 */
