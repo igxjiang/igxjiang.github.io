@@ -23,7 +23,7 @@ I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a 
 - *2025.05*: &nbsp; I passed the visiting student program of **HKUST** and plan to start in July.💪
 - *2025.03*: &nbsp; I participated in [**ICAC**](https://icacworkshop.cn/) workshop 2025 in Shenzhen.
 - *2025.02*: &nbsp; I founded my personal website.
-- *2024.11*: &nbsp; I won the **National Scholarship**  (Award Rate: 0.4% national-wide,[slides](国奖答辩（定稿）.pdf))
+- *2024.11*: &nbsp; I won the **National Scholarship**  (0.4% national-wide,it's my [slides](国奖答辩（定稿）.pdf))
 - *2024.10*: &nbsp; I joined the [**Digital PET lab**](https://petlab.hust.edu.cn/) as undergraduate researcher with the guidance of Prof.Xie and Mr.Zhilong Li.
 - *2023.10*: &nbsp; I won the **National Encouragement Scholarship**.
 - *2022.09*: &nbsp; I was Admitted to **HUST**.🥳
@@ -35,8 +35,7 @@ Participated in the design of the core Time-to-Digital Converter (TDC) module fo
 Before joining the project team, I also completed scientific research training (primarily on Cadence Virtuoso usage) and ultimately finished the design of an operational amplifier.
 
 - *2024.04-2024.07*: &nbsp; Biomedical signal classification
-Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data from both depression patients and healthy individuals, Support Vector Machine (SVM) and Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) models were established. Innovatively proposing the concept of "depressive episode proportion," this approach addresses the issue of imbalanced sample sizes and effectively achieves screening and detection of early-stage depression in adolescents.
-Here are our [slides](BME2024.pptx)
+Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data from both depression patients and healthy individuals, Support Vector Machine (SVM) and Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) models were established. Innovatively proposing the concept of "depressive episode proportion," this approach addresses the issue of imbalanced sample sizes and effectively achieves screening and detection of early-stage depression in adolescents. Here are our [slides](BME2024.pptx)
 ---
 
 ## Education
@@ -44,6 +43,9 @@ Here are our [slides](BME2024.pptx)
 - **Huazhong University of Science and Technology** (*2022 – 2026*)
 
 - **Anhui Provence Huoqiu No.1 Middle School** (*2019 – 2022*)
+
+{% include edu.html %}
+
 
 ---
 
@@ -91,13 +93,13 @@ I participated in summer camp of School of BME,Fudan University. It's my first t
 I competed Xiantao half marathon with the PB(personal best) score of 1:44：23🏃‍
 
 - *3.25-3.28  &ensp; Shenzhen·Guangdong*  
-I registered the ICAC workshop which invents many Chinese guests in IC design. It's the first academic meeting I have participate and also my first time to visit Shenzhen
+I registered the ICAC workshop which invents many Chinese guests in IC design. It's the first academic meeting I have participate and also my first time to visit Shenzhen🏙︎
 
 - *3.7-3.9 &ensp; Guangzhou·Guangdong*  
 I was honored to pass the PhD Admission Early Camp of the Hong Kong University of Science and Technology (Guangzhou)🎓
 
 - *2.19-2.23 &ensp; Hefei·Anhui*  
-I went to the Intelligent Detection and Imaging Lab of the School of Microelectronics of USTC with Dr.Zhilong Li.
+I went to the Intelligent Detection and Imaging Lab of the School of Microelectronics of USTC with Dr.Zhilong Li🧑‍🎓
  
 2024
 --
