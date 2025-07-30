@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guangxin Jiang"
-description              : "a sturggling dreamer"
+description              : "A sturggling dreamer"
 repository               : "igxjiang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Guangxin Jiang"
   avatar           : "images/jgx.png"
   bio              : "Undergraduate@HUST"
-  location         : 1037Road Wuhan·China
+  location         : Road1037 Wuhan·China
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en"
@@ -53,7 +53,7 @@ author:
   tumblr           :
   twitter          : # "SterZhang"
   vine             :
-  wechat           : "images/wechat.png"
+  weibo            : #"images/wechat.png"
   xing             :
   youtube          :
   wikipedia        :
