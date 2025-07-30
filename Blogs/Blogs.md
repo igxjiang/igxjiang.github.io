@@ -1,15 +1,15 @@
 ---
 title: "技术博客"
 layout: default
-permalink: /blog/
+permalink: /Blogs/
 ---
 
 
-<section class="blog-listing">
+<section class="Blogs-listing">
   <h1>最新文章</h1>
   
-  {% for post in site.blogs reversed %}
-    <div class="blog-item">
+  {% for post in site.Blogs reversed %}
+    <div class="Blogs-item">
       <h2>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
