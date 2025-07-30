@@ -140,7 +140,7 @@ defaults:
       path: ""
       type: Blogs
     values:
-      layout: default
+      layout: Blogs
       author_profile: true
       share: true
       comments: true
