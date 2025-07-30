@@ -37,11 +37,12 @@ I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a 
 ---
 
 ## Selected Courses
+My complete [scores](English Scores.pdf)
 - CMOS Anolog Integrated circuits(86)  
 - Digital Integrated circuits (90)  
 - Device Physics(91)  
 - RF Integrated circuits(96)  
-My complete [scores](English Scores.pdf)
+
 
 ---
 
@@ -59,6 +60,7 @@ My complete [scores](English Scores.pdf)
 - **Programming**(Python, Matlab, C/C++)
 - **Circuit Design**(Candence Virtuoso, LTspiec, NI Multisim)
 - **Microsoft Office** (Word, Excel, PPT)
+
 ---
 
 
@@ -70,6 +72,7 @@ My complete [scores](English Scores.pdf)
 I enjoy the feeling of journey.  
 My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.   
 
+  
 2025
 - *7.14-7.17 &ensp; Hangzhou·Zhejiang*  
 I participated in engineering summer camp of westlake university and visited [CenBRAIN Neurotech Center](https://cenbrain.westlake.edu.cn/index.htm).I was honored to listen to Academician Dai Qionghai's report and take a group photo with him.
@@ -112,9 +115,10 @@ Since it's my choice, I will keep going no matter how difficult it is.</details>
 
   <details><summary>   
 3.What difficulties did you encounter? </summary>  
-    So much in the process of studying.
+    So much in the process of studying.  
  </details>  
 
+  
 *Friendship Links:*
 - [Fan lab@HKUST](https://eezfan.home.ece.ust.hk/)
 - [Chao Wang@HUST](http://faculty.hust.edu.cn/WangChao/)
