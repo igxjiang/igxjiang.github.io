@@ -132,7 +132,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: default
       author_profile: true
  
   # _teaching
@@ -140,7 +140,7 @@ defaults:
       path: ""
       type: Blogs
     values:
-      layout: single
+      layout: default
       author_profile: true
       share: true
       comments: true
