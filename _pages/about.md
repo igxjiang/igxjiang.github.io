@@ -15,7 +15,7 @@ I am now a visiting student at HKUST,supervised by Prof.[**Zhiyong Fan**](https:
 
 My research focuses on sensors systems and Analog integreted circuits design.
 
-I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a professor in university.And feel free to reach out to me for discussion!
+I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a professor in university.And feel free to reach out to me for discussion! [CV](CV(Guangxin Jiang@HUST))
 
 
 ## News
@@ -35,7 +35,7 @@ Participated in the design of the core Time-to-Digital Converter (TDC) module fo
 Before joining the project team, I also completed scientific research training (primarily on Cadence Virtuoso usage) and ultimately finished the design of an operational amplifier.
 
 - *2024.04-2024.07*: &nbsp; Biomedical signal classification
-Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data from both depression patients and healthy individuals, Support Vector Machine (SVM) and Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) models were established. Innovatively proposing the concept of "depressive episode proportion," this approach addresses the issue of imbalanced sample sizes and effectively achieves screening and detection of early-stage depression in adolescents. Here are our [slides](BME2024.pptx)
+Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data from both depression patients and healthy individuals, Support Vector Machine (SVM) and Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) models were established. Innovatively proposing the concept of "depressive episode proportion," this approach addresses the issue of imbalanced sample sizes and effectively achieves screening and detection of early-stage depression in adolescents. Here are our [slides](BME2024.pptx) and [poster](海报1654-打印.pdf)
 ---
 
 ## Education
@@ -54,6 +54,7 @@ Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data 
 - Digital Integrated circuits (90)  
 - Device Physics(91)  
 - RF Integrated circuits(96)  
+My complete [scores](English Scores.pdf)
 
 ---
 
