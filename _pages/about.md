@@ -15,7 +15,7 @@ I am now a visiting student at HKUST,supervised by Prof.[**Zhiyong Fan**](https:
 
 My research focuses on sensors systems and Analog integreted circuits design.
 
-I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a professor in university.And feel free to reach out to me for discussion! [CV](CV(Guangxin Jiang@HUST))
+I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a professor in university.And feel free to reach out to me for discussion! It's my [CV](CV(Guangxin Jiang@HUST).pdf)
 
 
 ## News
