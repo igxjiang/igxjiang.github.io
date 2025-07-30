@@ -29,13 +29,12 @@ I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a 
 - *2022.09*: &nbsp; I was Admitted to **HUST**.🥳
 
 
-
 ## Project Experience
-- *2024.10-2025.06*: &nbsp; TDC circuits design  
+- *2024.10-2025.06*: &nbsp; TDC circuits design
 Participated in the design of the core Time-to-Digital Converter (TDC) module for a novel fully digital monolithic silicon photomultiplier (MT-SiPM). Completed circuit design for pulse rising/falling edge detection, delay control units, and measurement channels, and is currently designing the measurement precision control module. Additionally, proposed a tree-shaped symmetrical routing scheme to address the signal inconsistency in the multi-channel array of PET detectors. This scheme significantly reduces delay differences between channels caused by RC parasitic effects.
 Before joining the project team, I also completed scientific research training (primarily on Cadence Virtuoso usage) and ultimately finished the design of an operational amplifier.
 
-- *2024.04-2024.07*: &nbsp; Biomedical signal classification  
+- *2024.04-2024.07*: &nbsp; Biomedical signal classification
 Based on electrocardiogram (ECG) and electroencephalogram (EEG) multimodal data from both depression patients and healthy individuals, Support Vector Machine (SVM) and Convolutional Neural Network-Long Short-Term Memory (CNN-LSTM) models were established. Innovatively proposing the concept of "depressive episode proportion," this approach addresses the issue of imbalanced sample sizes and effectively achieves screening and detection of early-stage depression in adolescents.
 Here are our [slides](BME2024.pptx)
 ---
