@@ -135,10 +135,10 @@ defaults:
       author_profile: true
  
   - scope:
-      path: "_blogs"
-      type: "blogs" 
+      path: ""
+      type: blogs
     values:
-      layout: signal  
+      layout: signal
       author_profile: true
       share: true
       comments: false  
