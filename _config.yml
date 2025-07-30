@@ -120,9 +120,9 @@ kramdown:
 
 
 collections:
-  Blog:  # 新增博客集合
+  blogs:
+    permalink: /blogs/:path/
     output: true
-    permalink: /blog/:path/
 
 
 # Defaults
