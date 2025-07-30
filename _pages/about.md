@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include scroll.html %}
+
 # About Me
 
 Hi! I’m **Guangxin Jiang (蒋光鑫)** ,currently a Final year undergraduate student in Huazhong University of Science and Technology(HUST). I am majoring in Biomedical Engineering with a keen interest in microelectrioncs.
