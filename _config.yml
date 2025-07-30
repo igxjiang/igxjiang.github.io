@@ -138,13 +138,12 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: Blogs
+      type: _blogs
     values:
-      layout: Blogs
+      layout: signal
       author_profile: true
       share: true
       comments: true
-
 
 
 # Sass/SCSS
