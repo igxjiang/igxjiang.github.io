@@ -140,9 +140,6 @@ defaults:
     values:
       layout: default
       author_profile: true
-      share: true
-      comments: false  
-      show_date: true
 
 
 # Sass/SCSS
