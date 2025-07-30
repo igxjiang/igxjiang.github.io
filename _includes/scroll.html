@@ -33,26 +33,7 @@
             opacity: 1; /* 仅当前展示的图片可见 */
         }
 
-        /* 分页器样式 */
-        .swiper-pagination {
-            position: absolute;
-            bottom: 10%; /* 距离图片底部 10% */
-            left: 50%;
-            transform: translateX(-50%); /* 居中对齐 */
-            z-index: 10; /* 确保分页器在图片之上 */
-        }
-
-        .swiper-pagination-bullet {
-            background-color: rgba(255, 255, 255, 0.7); /* 半透明白色分页器 */
-            width: 10px;
-            height: 10px;
-        }
-
-        .swiper-pagination-bullet-active {
-            background-color: #007bff; /* 活动状态的分页器颜色 */
-        }
-
-        /* 注意：已移除按钮相关样式 */
+        /* 注意：已移除分页器相关样式 */
     </style>
 </head>
 <body>
@@ -77,9 +58,10 @@
                 <img src="/images/scroll/lzl.jpg" alt="图片5">
             </div>
         </div>
-        <!-- 分页器 -->
-        <div class="swiper-pagination"></div>
-        <!-- 注意：已移除导航按钮 -->
+        <!-- 注意：已移除分页器 -->
+        <!-- 导航按钮（保留） -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
     </div>
 
     <!-- 引入Swiper的JS -->
@@ -94,12 +76,12 @@
                 delay: 3000, // 每张图片停留3秒
                 disableOnInteraction: false, // 用户操作后不会停止自动播放
             },
-            // 分页器
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true, // 支持点击跳转
+            // 注意：已移除pagination配置
+            // 导航按钮
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
             },
-            // 注意：已移除navigation配置
         });
     </script>
 </body>
