@@ -52,29 +52,7 @@
             background-color: #007bff; /* 活动状态的分页器颜色 */
         }
 
-        /* 左右切换按钮样式 */
-        .swiper-button-next,
-        .swiper-button-prev {
-            color: #fff; /* 按钮颜色为白色 */
-            position: absolute;
-            top: 50%; /* 垂直居中在图片区域 */
-            transform: translateY(-50%); /* 修正居中偏移 */
-            z-index: 10; /* 确保按钮在图片之上 */
-        }
-
-        .swiper-button-next {
-            right: 5%; /* 距离图片右侧 5% */
-        }
-
-        .swiper-button-prev {
-            left: 5%; /* 距离图片左侧 5% */
-        }
-
-        /* 按钮的鼠标悬停样式 */
-        .swiper-button-next:hover,
-        .swiper-button-prev:hover {
-            color: #007bff; /* 鼠标悬停时变为蓝色 */
-        }
+        /* 注意：已移除按钮相关样式 */
     </style>
 </head>
 <body>
@@ -101,9 +79,7 @@
         </div>
         <!-- 分页器 -->
         <div class="swiper-pagination"></div>
-        <!-- 导航按钮 -->
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
+        <!-- 注意：已移除导航按钮 -->
     </div>
 
     <!-- 引入Swiper的JS -->
@@ -123,11 +99,7 @@
                 el: '.swiper-pagination',
                 clickable: true, // 支持点击跳转
             },
-            // 导航按钮
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
+            // 注意：已移除navigation配置
         });
     </script>
 </body>
