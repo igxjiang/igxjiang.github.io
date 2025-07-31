@@ -4,75 +4,27 @@
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      /* 原有样式 - 仅实现两端对齐 */
-      .page__content {
-        text-align: justify;
-        text-justify: inter-word;
-        hyphens: auto;
-      }
-      
-      /* 可选：改善段落可读性 */
-      .page__content p {
-        margin-bottom: 1.2rem;
-        line-height: 1.7;
-      }
-      
-      /* 新增样式 - 上一篇/下一篇导航 */
+      /* 仅保留必要样式 */
       .post-navigation {
+        margin-top: 2rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid #eee;
         display: flex;
         justify-content: space-between;
-        margin-top: 3rem;
-        padding-top: 2rem;
-        border-top: 1px solid #eee;
       }
       
-      .nav-item {
-        flex: 1;
-        padding: 15px;
-        border-radius: 8px;
-        transition: all 0.3s ease;
-        max-width: 45%;
-      }
-      
-      .nav-item:hover {
-        background-color: #f8f9fa;
-        transform: translateY(-3px);
-        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-      }
-      
-      .prev-post {
-        margin-right: 10px;
-        text-align: left;
-      }
-      
-      .next-post {
-        margin-left: 10px;
-        text-align: right;
-      }
-      
-      .nav-label {
-        display: block;
-        font-size: 0.85rem;
-        color: #6c757d;
-        margin-bottom: 5px;
-        font-weight: 600;
-      }
-      
-      .nav-title {
-        font-size: 1.05rem;
-        font-weight: 600;
-        color: #212529;
-        line-height: 1.4;
+      .nav-btn {
+        padding: 8px 15px;
+        text-decoration: none;
+        color: #2c3e50;
+        border: 1px solid #ddd;
+        border-radius: 4px;
       }
       
       .disabled {
-        opacity: 0.5;
+        color: #999;
         cursor: not-allowed;
-      }
-      
-      .nav-arrow {
-        margin: 0 5px;
-        font-size: 0.9rem;
+        border-color: #eee;
       }
     </style>
   </head>
@@ -103,32 +55,20 @@
             {{ content }}
           </section>
           
-          <!-- 上一篇/下一篇导航 -->
+          <!-- 极简导航组件 -->
           <div class="post-navigation">
             <!-- 上一篇 -->
             {% if page.previous %}
-              <a href="{{ page.previous.url | relative_url }}" class="nav-item prev-post">
-                <span class="nav-label"><span class="nav-arrow">←</span> 上一篇</span>
-                <span class="nav-title">{{ page.previous.title }}</span>
-              </a>
+              <a href="{{ page.previous.url | relative_url }}" class="nav-btn">上一篇</a>
             {% else %}
-              <div class="nav-item prev-post disabled">
-                <span class="nav-label"><span class="nav-arrow">←</span> 上一篇</span>
-                <span class="nav-title">已是最早文章</span>
-              </div>
+              <span class="nav-btn disabled">上一篇</span>
             {% endif %}
             
             <!-- 下一篇 -->
             {% if page.next %}
-              <a href="{{ page.next.url | relative_url }}" class="nav-item next-post">
-                <span class="nav-label">下一篇 <span class="nav-arrow">→</span></span>
-                <span class="nav-title">{{ page.next.title }}</span>
-              </a>
+              <a href="{{ page.next.url | relative_url }}" class="nav-btn">下一篇</a>
             {% else %}
-              <div class="nav-item next-post disabled">
-                <span class="nav-label">下一篇 <span class="nav-arrow">→</span></span>
-                <span class="nav-title">已是最新文章</span>
-              </div>
+              <span class="nav-btn disabled">下一篇</span>
             {% endif %}
           </div>
         </div>
