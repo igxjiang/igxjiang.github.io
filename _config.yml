@@ -138,7 +138,7 @@ defaults:
       path: ""
       type: blogs
     values:
-      layout: default
+      layout: signal
       author_profile: true
 
 
