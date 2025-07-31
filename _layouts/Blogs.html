@@ -4,7 +4,7 @@
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      /* 添加的样式 - 仅实现两端对齐 */
+      /* 原有样式 - 仅实现两端对齐 */
       .page__content {
         text-align: justify;
         text-justify: inter-word;
@@ -15,6 +15,64 @@
       .page__content p {
         margin-bottom: 1.2rem;
         line-height: 1.7;
+      }
+      
+      /* 新增样式 - 上一篇/下一篇导航 */
+      .post-navigation {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 3rem;
+        padding-top: 2rem;
+        border-top: 1px solid #eee;
+      }
+      
+      .nav-item {
+        flex: 1;
+        padding: 15px;
+        border-radius: 8px;
+        transition: all 0.3s ease;
+        max-width: 45%;
+      }
+      
+      .nav-item:hover {
+        background-color: #f8f9fa;
+        transform: translateY(-3px);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+      }
+      
+      .prev-post {
+        margin-right: 10px;
+        text-align: left;
+      }
+      
+      .next-post {
+        margin-left: 10px;
+        text-align: right;
+      }
+      
+      .nav-label {
+        display: block;
+        font-size: 0.85rem;
+        color: #6c757d;
+        margin-bottom: 5px;
+        font-weight: 600;
+      }
+      
+      .nav-title {
+        font-size: 1.05rem;
+        font-weight: 600;
+        color: #212529;
+        line-height: 1.4;
+      }
+      
+      .disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+      
+      .nav-arrow {
+        margin: 0 5px;
+        font-size: 0.9rem;
       }
     </style>
   </head>
@@ -44,6 +102,35 @@
           <section class="page__content" itemprop="text">
             {{ content }}
           </section>
+          
+          <!-- 上一篇/下一篇导航 -->
+          <div class="post-navigation">
+            <!-- 上一篇 -->
+            {% if page.previous %}
+              <a href="{{ page.previous.url | relative_url }}" class="nav-item prev-post">
+                <span class="nav-label"><span class="nav-arrow">←</span> 上一篇</span>
+                <span class="nav-title">{{ page.previous.title }}</span>
+              </a>
+            {% else %}
+              <div class="nav-item prev-post disabled">
+                <span class="nav-label"><span class="nav-arrow">←</span> 上一篇</span>
+                <span class="nav-title">已是最早文章</span>
+              </div>
+            {% endif %}
+            
+            <!-- 下一篇 -->
+            {% if page.next %}
+              <a href="{{ page.next.url | relative_url }}" class="nav-item next-post">
+                <span class="nav-label">下一篇 <span class="nav-arrow">→</span></span>
+                <span class="nav-title">{{ page.next.title }}</span>
+              </a>
+            {% else %}
+              <div class="nav-item next-post disabled">
+                <span class="nav-label">下一篇 <span class="nav-arrow">→</span></span>
+                <span class="nav-title">已是最新文章</span>
+              </div>
+            {% endif %}
+          </div>
         </div>
       </article>
     </div>
