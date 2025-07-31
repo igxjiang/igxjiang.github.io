@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>简洁博客列表</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: #f8f9fa;
+            color: #333;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 20px 0;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eaeaea;
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1rem;
+        }
+        
+        .blog-list {
+            margin-top: 20px;
+        }
+        
+        .blog-item {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            transition: all 0.2s ease;
+        }
+        
+        .blog-item:hover {
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transform: translateY(-2px);
+        }
+        
+        .blog-title {
+            font-size: 1.4rem;
+            color: #2980b9;
+            margin-bottom: 8px;
+            display: block;
+            text-decoration: none;
+        }
+        
+        .blog-title:hover {
+            color: #e74c3c;
+            text-decoration: underline;
+        }
+        
+        .blog-date {
+            color: #95a5a6;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .blog-excerpt {
+            color: #34495e;
+            margin-top: 12px;
+            line-height: 1.5;
+        }
+        
+        .blog-meta {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+            padding-top: 10px;
+            border-top: 1px dashed #ecf0f1;
+            font-size: 0.85rem;
+        }
+        
+        .blog-author {
+            color: #16a085;
+        }
+        
+        .blog-category {
+            background: #f1f8e9;
+            color: #7cb342;
+            padding: 3px 8px;
+            border-radius: 4px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 40px;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+            border-top: 1px solid #eaeaea;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>博客文章</h1>
+        <p class="subtitle">最新技术文章与思考分享</p>
+    </header>
+    
+    <div class="blog-list">
+        <div class="blog-item">
+            <a href="#" class="blog-title">理解JavaScript闭包的核心概念</a>
+            <div class="blog-date">
+                <i class="far fa-calendar-alt"></i> 2023年7月28日
+            </div>
+            <p class="blog-excerpt">
+                闭包是JavaScript中一个重要概念，它允许函数访问并记住其词法作用域，即使该函数在其词法作用域之外执行...
+            </p>
+            <div class="blog-meta">
+                <span class="blog-author">作者: 李技术</span>
+                <span class="blog-category">JavaScript</span>
+            </div>
+        </div>
+        
+        <div class="blog-item">
+            <a href="#" class="blog-title">CSS Grid布局实战指南</a>
+            <div class="blog-date">
+                <i class="far fa-calendar-alt"></i> 2023年7月20日
+            </div>
+            <p class="blog-excerpt">
+                探索CSS Grid的强大功能，创建复杂而响应式的网页布局。本文将通过实际案例展示Grid布局的核心技巧...
+            </p>
+            <div class="blog-meta">
+                <span class="blog-author">作者: 王前端</span>
+                <span class="blog-category">CSS</span>
+            </div>
+        </div>
+        
+        <div class="blog-item">
+            <a href="#" class="blog-title">React Hooks最佳实践</a>
+            <div class="blog-date">
+                <i class="far fa-calendar-alt"></i> 2023年7月12日
+            </div>
+            <p class="blog-excerpt">
+                React Hooks彻底改变了函数组件的开发方式。了解如何正确使用useState、useEffect等钩子提高代码质量...
+            </p>
+            <div class="blog-meta">
+                <span class="blog-author">作者: 张React</span>
+                <span class="blog-category">React</span>
+            </div>
+        </div>
+        
+        <div class="blog-item">
+            <a href="#" class="blog-title">网站性能优化关键策略</a>
+            <div class="blog-date">
+                <i class="far fa-calendar-alt"></i> 2023年7月5日
+            </div>
+            <p class="blog-excerpt">
+                提升网站加载速度和用户体验的实用技巧，包括资源压缩、懒加载、CDN使用和关键渲染路径优化...
+            </p>
+            <div class="blog-meta">
+                <span class="blog-author">作者: 赵优化</span>
+                <span class="blog-category">性能</span>
+            </div>
+        </div>
+        
+        <div class="blog-item">
+            <a href="#" class="blog-title">TypeScript类型系统深入解析</a>
+            <div class="blog-date">
+                <i class="far fa-calendar-alt"></i> 2023年6月28日
+            </div>
+            <p class="blog-excerpt">
+                TypeScript的类型系统为JavaScript开发提供了强大的工具。本文深入探讨高级类型、泛型和类型守卫...
+            </p>
+            <div class="blog-meta">
+                <span class="blog-author">作者: 钱TypeScript</span>
+                <span class="blog-category">TypeScript</span>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>© 2023 技术博客 | 共5篇文章</p>
+    </footer>
+</body>
+</html>
