@@ -30,7 +30,7 @@ I went to the Intelligent Detection and Imaging Lab of the School of Microelectr
 **2024**
 - *10.27 &ensp;&ensp;  Xiaogan·Hubei*  
 I competed half marathon for the first time with the score of 1:51：34🏃‍
-- *7.21-7.26 &ensp; Sayan·Hainan*
+- *7.21-7.26 &ensp; Sayan·Hainan*  
 I participated in the National College Student Biomedical Engineering Innovation Design Competition and made poster presentations for the first time.It's also my first time to visit Sanya🌴
 
 ---
