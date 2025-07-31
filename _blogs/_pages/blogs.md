@@ -4,4 +4,4 @@ layout: default
 permalink: /blogs/
 ---
 
-{% include lists.html %}
+{% include blog-lists.html %}
