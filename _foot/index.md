@@ -1,7 +1,7 @@
 layout: default
 permalink: /foot/  
 title: Footprint
-----
+---
 
 ## Footprint
 I enjoy the feeling of journey. My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.   
