@@ -6,7 +6,8 @@ permalink: /blogs/
 
 <h1>Blogs</h1>
 <ul>
-  {% for post in site.blogs %}
+  {% assign sorted_posts = site.blogs | sort: 'date' | reverse %}
+  {% for post in sorted_posts %}
     {% if post.id != page.id %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
