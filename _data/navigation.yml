@@ -5,6 +5,6 @@ main:
 
    - title: "Blogs"
      url: /blogs/
-
-  # - title: "News"
-  #   url: "/#-news"
+   - title: "Footprints"
+     url: /foot/
+     
