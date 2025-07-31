@@ -3,6 +3,20 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <style>
+      /* 添加的样式 - 仅实现两端对齐 */
+      .page__content {
+        text-align: justify;
+        text-justify: inter-word;
+        hyphens: auto;
+      }
+      
+      /* 可选：改善段落可读性 */
+      .page__content p {
+        margin-bottom: 1.2rem;
+        line-height: 1.7;
+      }
+    </style>
   </head>
 
   <body>
