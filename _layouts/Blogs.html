@@ -1,21 +1,54 @@
+
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-/* 修正后的两端对齐样式 */
-      .page_content {
-      text-align: justify;
-      text-justify: inter-word;  /* 修正破折号为正确连字符 */
-      hyphens: auto;
+      /* 添加的样式 - 仅实现两端对齐 */
+      .page__content {
+        text-align: justify;
+        text-justify: inter-word;
+        hyphens: auto;
       }
-/* 可选：改善段落可读性 */
-      .page_content p {
+      
+      /* 可选：改善段落可读性 */
+      .page__content p {
         margin-bottom: 1.2rem;
         line-height: 1.7;
-    }
+      }
     </style>
-  </body>
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    <div id="main" role="main">
+      {% include sidebar.html %}
     
-  </html>
+      <article class="page" itemscope itemtype="http://schema.org/BlogPosting">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        
+        <div class="page__inner-wrap">
+          <header class="page__header">
+            <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
+            <p class="page__meta">
+              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: "%B %d, %Y" }}
+              </time>
+              {% if page.category %} • 分类: <span itemprop="keywords">{{ page.category }}</span>{% endif %}
+            </p>
+          </header>
+
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
