@@ -140,7 +140,7 @@ defaults:
       path: "_blogs/*"
       type: blogs
     values:
-      layout: blog  # 使用新的布局文件
+      layout: Blogs
       author_profile: true
 
 
