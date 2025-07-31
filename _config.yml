@@ -147,7 +147,7 @@ defaults:
       path: "_foot/*"
       type: foot
     values:
-      layout: Blogs
+      layout: default
       author_profile: true
 
 
