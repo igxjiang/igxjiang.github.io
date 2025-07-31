@@ -117,13 +117,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-
 collections:
   pages:  # 新增pages集合
     output: true
     permalink: /:path/  # 推荐URL格式
   blogs:
+    output: true
+    permalink: /:collection/:path/
+  foot:
     output: true
     permalink: /:collection/:path/
 
@@ -139,6 +140,12 @@ defaults:
   - scope:
       path: "_blogs/*"
       type: blogs
+    values:
+      layout: Blogs
+      author_profile: true
+  - scope:
+      path: "_foot/*"
+      type: foot
     values:
       layout: Blogs
       author_profile: true
