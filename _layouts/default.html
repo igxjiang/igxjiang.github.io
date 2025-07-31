@@ -7,16 +7,30 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    
+    <!-- 新增两端对齐样式 -->
+    <style>
+      .page__content {
+        text-align: justify;          /* 基础两端对齐 */
+      }
+      @supports not (text-justify: inter-word) {
+        .page__content {
+          text-align-last: left;      /* 最后一行保持左对齐 */
+        }
+      }
+      .page__content pre,
+      .page__content blockquote,
+      .page__content .highlight {
+        text-align: left !important;  /* 强制左对齐 */
+      }
+    </style>
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-
     <div id="main" role="main">
       {% include sidebar.html %}
-    
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
