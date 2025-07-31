@@ -4,13 +4,14 @@
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      /* 仅保留必要样式 */
+      /* 导航组件样式 */
       .post-navigation {
         margin-top: 2rem;
         padding-top: 1.5rem;
         border-top: 1px solid #eee;
         display: flex;
         justify-content: space-between;
+        width: 100%; /* 确保占据全宽 */
       }
       
       .nav-btn {
@@ -19,12 +20,20 @@
         color: #2c3e50;
         border: 1px solid #ddd;
         border-radius: 4px;
+        background: white;
+        transition: all 0.3s;
+      }
+      
+      .nav-btn:hover {
+        background-color: #f8f8f8;
+        border-color: #bbb;
       }
       
       .disabled {
         color: #999;
         cursor: not-allowed;
         border-color: #eee;
+        background-color: #f5f5f5;
       }
     </style>
   </head>
@@ -54,25 +63,24 @@
           <section class="page__content" itemprop="text">
             {{ content }}
           </section>
-          
-          <!-- 极简导航组件 -->
-          <div class="post-navigation">
-            <!-- 上一篇 -->
-            {% if page.previous %}
-              <a href="{{ page.previous.url | relative_url }}" class="nav-btn">上一篇</a>
-            {% else %}
-              <span class="nav-btn disabled">上一篇</span>
-            {% endif %}
-            
-            <!-- 下一篇 -->
-            {% if page.next %}
-              <a href="{{ page.next.url | relative_url }}" class="nav-btn">下一篇</a>
-            {% else %}
-              <span class="nav-btn disabled">下一篇</span>
-            {% endif %}
-          </div>
         </div>
       </article>
+
+      <!-- 移动到文章外部，页面底部 -->
+      <div class="post-navigation">
+        <!-- 修改点1: 交换上一篇/下一篇逻辑 -->
+        {% if page.next %}
+          <a href="{{ page.next.url | relative_url }}" class="nav-btn">上一篇</a>
+        {% else %}
+          <span class="nav-btn disabled">上一篇</span>
+        {% endif %}
+        
+        {% if page.previous %}
+          <a href="{{ page.previous.url | relative_url }}" class="nav-btn">下一篇</a>
+        {% else %}
+          <span class="nav-btn disabled">下一篇</span>
+        {% endif %}
+      </div>
     </div>
 
     {% include scripts.html %}
