@@ -4,84 +4,18 @@
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      /* 仅保留必要样式 */
-      .post-navigation {
-        margin: 2rem auto 0;
-        padding: 1.5rem 0;
-        display: flex;
-        justify-content: center; /* 居中排列 */
-        gap: 20px; /* 按钮间距 */
+/* 修正后的两端对齐样式 */
+      .page_content {
+      text-align: justify;
+      text-justify: inter-word;  /* 修正破折号为正确连字符 */
+      hyphens: auto;
       }
-      
-      .nav-btn {
-        padding: 8px 15px;
-        text-decoration: none;
-        color: #2c3e50;
-        border: 1px solid #ddd;
-        border-radius: 4px;
-        min-width: 80px;
-        text-align: center;
-        transition: all 0.3s;
-      }
-      
-      .disabled {
-        color: #999;
-        cursor: not-allowed;
-        border-color: #eee;
-      }
-
-      .nav-btn:hover:not(.disabled) {
-        background-color: #f8f8f8;
-        transform: translateY(-2px);
-      }
+/* 可选：改善段落可读性 */
+      .page_content p {
+        margin-bottom: 1.2rem;
+        line-height: 1.7;
+    }
     </style>
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/BlogPosting">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        
-        <div class="page__inner-wrap">
-          <header class="page__header">
-            <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
-            <p class="page__meta">
-              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {{ page.date | date: "%B %d, %Y" }}
-              </time>
-              {% if page.category %} • 分类: <span itemprop="keywords">{{ page.category }}</span>{% endif %}
-            </p>
-          </header>
-
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
-      
-      <!-- 底部导航组件（居中显示） -->
-      <div class="post-navigation">
-        <!-- 交换按钮顺序 -->
-        {% if page.next %}
-          <a href="{{ page.next.url | relative_url }}" class="nav-btn">下一篇</a>
-        {% else %}
-          <span class="nav-btn disabled">下一篇</span>
-        {% endif %}
-        
-        {% if page.previous %}
-          <a href="{{ page.previous.url | relative_url }}" class="nav-btn">上一篇</a>
-        {% else %}
-          <span class="nav-btn disabled">上一篇</span>
-        {% endif %}
-      </div>
-    </div>
-
-    {% include scripts.html %}
   </body>
-</html>
+    
+  </html>
