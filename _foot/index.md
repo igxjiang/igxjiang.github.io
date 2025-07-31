@@ -5,7 +5,7 @@ title: Footprint
 ---
 
 
-**Footprints**  
+## Footprints  
 I enjoy the feeling of journey. My leisure time consists of: ⚽🏸🏃💤‍ (o=^•ェ•)o.   
 
 ---  
