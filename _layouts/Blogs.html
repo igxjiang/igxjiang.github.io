@@ -1,29 +1,31 @@
-
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      /* 添加的样式 - 仅实现两端对齐 */
+      /* 保留原有的样式 */
       .page__content {
         text-align: justify;
         text-justify: inter-word;
         hyphens: auto;
       }
-      
-      /* 可选：改善段落可读性 */
       .page__content p {
         margin-bottom: 1.2rem;
         line-height: 1.7;
+      }
+      /* 新增：导航栏小标题样式 */
+      .masthead__subtitle {
+        font-size: 1.2rem;
+        color: #666;
+        margin-top: 0.5rem;
       }
     </style>
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include masthead.html %}  <!-- 导航栏包含小标题 -->
 
     <div id="main" role="main">
       {% include sidebar.html %}
@@ -43,7 +45,7 @@
           </header>
 
           <section class="page__content" itemprop="text">
-            {{ content }}
+            {{ content }}  <!-- 页面正文内容（无博客列表） -->
           </section>
         </div>
       </article>
