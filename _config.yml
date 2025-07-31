@@ -23,7 +23,7 @@ author:
   name             : "Guangxin Jiang"
   avatar           : "images/jgx.png"
   bio              : "Undergraduate@HUST"
-  location         : Road1037 Wuhan·China
+  location         : LuoyuRoad 1037·Wuhan
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=52dkNnkAAAAJ&hl=en"
@@ -118,27 +118,28 @@ kramdown:
   enable_coderay: false
 
 
+
 collections:
+  pages:  # 新增pages集合
+    output: true
+    permalink: /:path/  # 推荐URL格式
   blogs:
     output: true
     permalink: /:collection/:path/
 
 
-# Defaults
 defaults:
-  # _pages
   - scope:
-      path: ""
+      path: "_pages/*"
       type: pages
     values:
       layout: default
       author_profile: true
- 
   - scope:
-      path: ""
+      path: "_blogs/*"
       type: blogs
     values:
-      layout: signal
+      layout: default  # 确保_layouts/default.html存在
       author_profile: true
 
 
