@@ -1,9 +1,13 @@
 ---
 title: "2024年度总结"
+collection: blogs
+type: "Undergraduate course"
+permalink: /blogs/2025-07-30-first-blog
+venue: "University 1, Department"
 date: 2024-12-31
-categories: [Category1, Category2]
-tags: [summary, myself]
+location: "City, Country"
 ---
+
 
 该怎么形容这一年呢？今年的年终总结大约是我考完数字信号处理之后就想写的，但是那时还很早，而现在的心里倒是没什么想法了。去年年底，考完模电犹如度过大难关，然后转战生化。22年呢则是在大姑家，二阳、世界杯、B站、线上考试，这是我回想起来的关键词。21年大概是充满着迎来了新的一年吧，20年则是对未来充满迷茫同时又渴望掀开新的篇章，19年是意气风发进入21世纪20年代。
 
