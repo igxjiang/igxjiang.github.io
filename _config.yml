@@ -135,11 +135,12 @@ defaults:
     values:
       layout: default
       author_profile: true
+
   - scope:
       path: "_blogs/*"
       type: blogs
     values:
-      layout: default  # 确保_layouts/default.html存在
+      layout: blog  # 使用新的布局文件
       author_profile: true
 
 
