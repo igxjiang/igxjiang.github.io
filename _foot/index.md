@@ -1,4 +1,3 @@
-----
 layout: default
 permalink: /foot/  
 title: Footprint
