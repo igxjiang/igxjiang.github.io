@@ -49,16 +49,17 @@ After the volunteer teaching, my classmates and I visited Chongqing where the ni
 ---
 **2022** 
 - *8.20-8.22   &ensp;  Huangshan·Anhui*  
-After the college entrance examination and before the start of college, my high school classmates and I visited Huangshan.
+After the college entrance examination and before the start of college, my high school classmates and I visited Huangshan.  
+
 ---
 
 **2019** 
 - *7.01-7.12   &ensp;  Nanjing·Jiangsu*  
-After graduating from junior high school, my high school classmates and I also visited many places in Nanjing military training.
+After graduating from junior high school, my high school classmates and I also visited many places in Nanjing military training.  
+
 ---
 
 **2016** 
 - *8.12-8.14   &ensp;  &ensp; Beijing *  
 After graduating from elementary school, my junior high school classmates and I visited Beijing.  
----
 
