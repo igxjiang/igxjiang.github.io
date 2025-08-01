@@ -18,6 +18,17 @@ My research focuses on sensors systems and Analog integreted circuits design.
 I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a professor in university.And feel free to reach out to me for discussion! It's my [CV](CV(Guangxin Jiang@HUST).pdf)
 
 {% include scroll.html %}
+{% include edu.html %}
+
+---
+
+## Selected Courses
+My complete [scores](English Scores.pdf)
+- CMOS Anolog Integrated circuits(86)  
+- Digital Integrated circuits (90)  
+- Device Physics(91)  
+- RF Integrated circuits(96)
+
 
 ## News
 - *2025.07*: &nbsp; I was selected as **Excellent Camper** by Wastlake Unviersity and ZJU,FDU.🤗 
@@ -32,17 +43,6 @@ I’m seeking a PhD position in 2026 fall. In the futher future, I want to be a 
 ---
 
 {% include research.html %}
-{% include edu.html %}
-
----
-
-## Selected Courses
-My complete [scores](English Scores.pdf)
-- CMOS Anolog Integrated circuits(86)  
-- Digital Integrated circuits (90)  
-- Device Physics(91)  
-- RF Integrated circuits(96)  
-
 
 ---
 
