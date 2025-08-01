@@ -1,29 +1,26 @@
----
-layout: compress
----
-
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Footer with Map and Links</title>
     
     <!-- 新增两端对齐样式 + 底部布局样式 -->
     <style>
-      /* 全站统一背景色（示例用浅灰色，可替换为你喜欢的颜色） */
+      /* 全站统一背景色 */
       body {
         background-color: #f8f9fa; /* 主背景色 */
         min-height: 100vh; /* 确保页面至少占满视口高度 */
-        display: flex; /* 关键：启用Flex布局实现粘性页脚 */
+        display: flex; /* 启用Flex布局实现粘性页脚 */
         flex-direction: column; /* 子元素垂直排列 */
       }
 
       /* 内容区域占满剩余空间（确保页脚在底部） */
       #main {
-        flex: 1; /* 关键：让main区域扩展填充剩余空间 */
+        flex: 1; /* 让main区域扩展填充剩余空间 */
       }
 
-      /* 两端对齐优化（原代码保留并增强） */
+      /* 两端对齐优化 */
       .page__content {
         text-align: justify;
       }
@@ -40,14 +37,14 @@ layout: compress
 
       /* 底部页脚样式 */
       .site-footer {
-        background-color: #e9ecef; /* 页脚背景色（比主背景略深，区分层次） */
-        padding: 40px 20px; /* 上下40px，左右20px内边距 */
-        margin-top: auto; /* 关键：配合Flex布局让页脚固定在底部 */
+        background-color: #e9ecef; /* 页脚背景色（修改此处更改颜色） */
+        padding: 40px 20px; /* 上下40px，左右20px内边距（修改此处更改页脚高度） */
+        margin-top: auto; /* 配合Flex布局让页脚固定在底部 */
         color: #495057; /* 文字颜色 */
       }
 
       .footer-content {
-        max-width: 1200px; /* 限制最大宽度（与主内容对齐） */
+        max-width: 1200px; /* 限制最大宽度（修改此处调整页脚内容宽度） */
         margin: 0 auto; /* 水平居中 */
         display: flex;
         flex-wrap: wrap; /* 响应式换行 */
@@ -55,9 +52,21 @@ layout: compress
         gap: 30px; /* 内容项间距 */
       }
 
+      .footer-map {
+        flex: 1; /* 地图区域占1份 */
+        min-width: 300px; /* 最小宽度防止过窄 */
+      }
+
+      .footer-map img {
+        border: 1px solid #dee2e6;
+        border-radius: 8px; /* 修改此处更改地图边框圆角 */
+        width: 100%; /* 自适应宽度 */
+        height: auto; /* 保持比例 */
+      }
+
       .footer-links {
-        flex: 1; /* 友情链接区域占1份 */
-        min-width: 250px; /* 最小宽度防止过窄 */
+        flex: 2; /* 友情链接区域占2份 */
+        min-width: 300px; /* 最小宽度防止过窄 */
       }
 
       .footer-links h3 {
@@ -93,7 +102,7 @@ layout: compress
         font-size: 0.9rem;
         color: #868e96; /* 版权文字颜色 */
         border-top: 1px solid #dee2e6; /* 顶部分隔线 */
-        padding-top: 20px;
+        padding-top: 20px; /* 修改此处更改版权区域高度 */
       }
 
       /* 响应式适配（小屏幕） */
@@ -103,6 +112,7 @@ layout: compress
           text-align: center;
         }
         
+        .footer-map,
         .footer-links {
           margin-bottom: 20px;
         }
@@ -111,24 +121,24 @@ layout: compress
   </head>
 
   <body>
-    {% include browser-upgrade.html %}
-    {% include masthead.html %} <!-- 导航栏 -->
-    
     <div id="main" role="main">
-      {% include sidebar.html %}
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }} <!-- 主内容 -->
-          </section>
-        </div>
+        <section class="page__content" itemprop="text">
+        </section>
       </article>
     </div>
 
-    <!-- 新增底部页脚（友情链接放这里） -->
+    <!-- 底部页脚 -->
     <footer class="site-footer">
       <div class="footer-content">
+        <!-- 地图部分 -->
+        <div class="footer-map">
+          <a href="https://clustrmaps.com/site/1c7e1" title="Visit tracker">
+            <img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=329&t=tt&d=DDuWaDtmVbdELyz_SuLnJ57mSm9wbbsjlZ1vVo7wmH4&co=2d78ad&ct=ffffff" alt="Visitor Map" />
+          </a>
+        </div>
+
+        <!-- 友情链接部分 -->
         <div class="footer-links">
           <h3>Friendship Links</h3>
           <ul>
@@ -138,14 +148,11 @@ layout: compress
             <li><a href="https://www.bu.edu/" target="_blank">Jayton@BU</a></li>
           </ul>
         </div>
-        
-        <div class="copyright">
-          <p>© 2025 Guangxin Jiang (Kaysen). All rights reserved.</p>
-        </div>
+      </div>
+
+      <div class="copyright">
+        <p>© 2025 Guangxin Jiang (Kaysen). All rights reserved.</p>
       </div>
     </footer>
-
-    {% include scripts.html %}
-    <a href='https://clustrmaps.com/site/1c7e1' title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=329&t=tt&d=DDuWaDtmVbdELyz_SuLnJ57mSm9wbbsjlZ1vVo7wmH4&co=2d78ad&ct=ffffff'style='display:block; width:329px; height:auto;'/></a>
   </body>
 </html>
