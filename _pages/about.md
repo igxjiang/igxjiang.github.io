@@ -86,7 +86,3 @@ Since it's my choice, I will keep going no matter how difficult it is.</details>
  </details>  
 
 ---
-
-*Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*
-
------
