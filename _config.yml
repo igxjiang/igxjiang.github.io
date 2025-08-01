@@ -134,7 +134,7 @@ defaults:
       path: "_pages/*"
       type: pages
     values:
-      layout: default
+      layout: main
       author_profile: true
 
   - scope:
