@@ -1,0 +1,151 @@
+---
+layout: compress
+---
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    
+    <!-- 新增两端对齐样式 + 底部布局样式 -->
+    <style>
+      /* 全站统一背景色（示例用浅灰色，可替换为你喜欢的颜色） */
+      body {
+        background-color: #f8f9fa; /* 主背景色 */
+        min-height: 100vh; /* 确保页面至少占满视口高度 */
+        display: flex; /* 关键：启用Flex布局实现粘性页脚 */
+        flex-direction: column; /* 子元素垂直排列 */
+      }
+
+      /* 内容区域占满剩余空间（确保页脚在底部） */
+      #main {
+        flex: 1; /* 关键：让main区域扩展填充剩余空间 */
+      }
+
+      /* 两端对齐优化（原代码保留并增强） */
+      .page__content {
+        text-align: justify;
+      }
+      @supports not (text-justify: inter-word) {
+        .page__content {
+          text-align-last: left;
+        }
+      }
+      .page__content pre,
+      .page__content blockquote,
+      .page__content .highlight {
+        text-align: left !important;
+      }
+
+      /* 底部页脚样式 */
+      .site-footer {
+        background-color: #e9ecef; /* 页脚背景色（比主背景略深，区分层次） */
+        padding: 40px 20px; /* 上下40px，左右20px内边距 */
+        margin-top: auto; /* 关键：配合Flex布局让页脚固定在底部 */
+        color: #495057; /* 文字颜色 */
+      }
+
+      .footer-content {
+        max-width: 1200px; /* 限制最大宽度（与主内容对齐） */
+        margin: 0 auto; /* 水平居中 */
+        display: flex;
+        flex-wrap: wrap; /* 响应式换行 */
+        justify-content: space-between; /* 内容左右分布 */
+        gap: 30px; /* 内容项间距 */
+      }
+
+      .footer-links {
+        flex: 1; /* 友情链接区域占1份 */
+        min-width: 250px; /* 最小宽度防止过窄 */
+      }
+
+      .footer-links h3 {
+        margin-bottom: 15px;
+        font-size: 1.1rem;
+        color: #343a40; /* 标题颜色 */
+      }
+
+      .footer-links ul {
+        list-style: none;
+        padding: 0;
+      }
+
+      .footer-links li {
+        margin-bottom: 10px;
+      }
+
+      .footer-links a {
+        color: #6c757d; /* 链接颜色 */
+        text-decoration: none;
+        transition: color 0.3s ease;
+      }
+
+      .footer-links a:hover {
+        color: #212529; /* 悬停颜色 */
+        text-decoration: underline;
+      }
+
+      .copyright {
+        flex-basis: 100%; /* 版权信息占满整行 */
+        margin-top: 20px;
+        text-align: center;
+        font-size: 0.9rem;
+        color: #868e96; /* 版权文字颜色 */
+        border-top: 1px solid #dee2e6; /* 顶部分隔线 */
+        padding-top: 20px;
+      }
+
+      /* 响应式适配（小屏幕） */
+      @media (max-width: 768px) {
+        .footer-content {
+          flex-direction: column;
+          text-align: center;
+        }
+        
+        .footer-links {
+          margin-bottom: 20px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %} <!-- 导航栏 -->
+    
+    <div id="main" role="main">
+      {% include sidebar.html %}
+      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }} <!-- 主内容 -->
+          </section>
+        </div>
+      </article>
+    </div>
+
+    <!-- 新增底部页脚（友情链接放这里） -->
+    <footer class="site-footer">
+      <div class="footer-content">
+        <div class="footer-links">
+          <h3>Friendship Links</h3>
+          <ul>
+            <li><a href="https://fanlab.hkust.edu.hk/" target="_blank">Fan lab@HKUST</a></li>
+            <li><a href="https://www.ece.hust.edu.cn/en/faculty/chao-wang" target="_blank">Chao Wang@HUST</a></li>
+            <li><a href="https://faculty.ustc.edu.cn/bianyl/en" target="_blank">Yaoliang Bian@USTC</a></li>
+            <li><a href="https://www.bu.edu/" target="_blank">Jayton@BU</a></li>
+          </ul>
+        </div>
+        
+        <div class="copyright">
+          <p>© 2025 Guangxin Jiang (Kaysen). All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    {% include scripts.html %}
+    <a href='https://clustrmaps.com/site/1c7e1' title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=329&t=tt&d=DDuWaDtmVbdELyz_SuLnJ57mSm9wbbsjlZ1vVo7wmH4&co=2d78ad&ct=ffffff'style='display:block; width:329px; height:auto;'/></a>
+  </body>
+</html>
