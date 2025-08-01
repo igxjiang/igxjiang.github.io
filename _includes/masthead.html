@@ -1,15 +1,15 @@
-<div class="masthead" style="background-color: #87CEEB;"> <!-- 半角井号 -->
+<div class="masthead" style="background-color: #1f2937;"> <!-- 统一的深蓝色背景 -->
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/' | relative_url }}" style="color: white;">Home</a> <!-- 白色文字 -->
           </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+              <a href="{{ link.url | relative_url }}" style="color: white;">{{ link.title }}</a> <!-- 白色文字 -->
             </li>
           {% endfor %}
         </ul>
