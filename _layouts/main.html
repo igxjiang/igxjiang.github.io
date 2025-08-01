@@ -1,9 +1,8 @@
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Footer with Map and Links</title>
+    {% include head.html %}
+    {% include head/custom.html %}
     
     <!-- 新增两端对齐样式 + 底部布局样式 -->
     <style>
@@ -121,11 +120,20 @@
   </head>
 
   <body>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+    
     <div id="main" role="main">
+      {% include sidebar.html %}
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        <section class="page__content" itemprop="text">
-          <p>Main content goes here...</p>
-        </section>
+        {% if page.title %}
+          <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+        {% endif %}
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="text">
+            {{ content }}
+          </section>
+        </div>
       </article>
     </div>
 
@@ -155,5 +163,7 @@
         <p>© 2025 Guangxin Jiang (Kaysen). All rights reserved.</p>
       </div>
     </footer>
+
+    {% include scripts.html %}
   </body>
 </html>
