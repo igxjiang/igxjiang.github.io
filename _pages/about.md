@@ -86,15 +86,7 @@ Since it's my choice, I will keep going no matter how difficult it is.</details>
  </details>  
 
 ---
-  
-*Friendship Links:*
-- [Fan lab@HKUST](https://eezfan.home.ece.ust.hk/)
-- [Chao Wang@HUST](http://faculty.hust.edu.cn/WangChao/)
-- [Yaoliang Bian@USTC](https://jeffyaoliang.github.io/)
-- [Jayton@BU](https://jayton.notion.site/Jiatong-Guo-72a7df57e871451e83c9c2e4018af409)
 
 *Last updated: {{ "now" | date: "%Y‑%m‑%d" }}*
 
 -----
-
-<p align="center">© 2025 Guangxin Jiang(Kaysen)</p>
