@@ -60,6 +60,6 @@ After graduating from junior high school, my high school classmates and I also v
 ---
 
 **2016** 
-- *8.12-8.14   &ensp;  &ensp; Beijing *  
+- *8.12-8.14   &ensp;  &ensp; Beijing*  
 After graduating from elementary school, my junior high school classmates and I visited Beijing.  
 
