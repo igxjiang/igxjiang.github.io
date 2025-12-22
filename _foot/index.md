@@ -10,15 +10,15 @@ I enjoy the feeling of journey. My leisure time consists of: ⚽🏸🏃💤‍ 
 
 ---  
 **2025**
-- *11.29-11.30 &ensp; Wuyuan·Jiangxi*
+- *11.29-11.30 &ensp; Wuyuan·Jiangxi*  
 I competed Wuyuan half marathon with the PB(personal best) score of 1:42:35🏃‍
-- *10.24-10.27 &ensp; Wuhan·Hubei*
+- *10.24-10.27 &ensp; Wuhan·Hubei*  
 STC2025  GAS SENSOR-2025
 - *10.17-now &ensp; Hangzhou·Zhejiang*  
 I joined [CenBRAIN Neurotech Center](https://cenbrain.westlake.edu.cn/index.htm) at Westlake University.
 - *7.18-8.30 &ensp; HongKong SAR*  
 I jioned FAN group at HongKong University of Science and Technology as a visting undergraduate.
-- *7.14-7.17 &ensp; Hangzhou·Zhejiang*  
+- *7.14-7.17 &ensp; Hangzhou·Zhejiang*    
 I participated in engineering summer camp of westlake university and visited [CenBRAIN Neurotech Center](https://cenbrain.westlake.edu.cn/index.htm).I was honored to listen to Academician Dai Qionghai's report and take a group photo with him.
 - *7.09-7.10 &ensp; Hangzhou·Zhejiang*  
 I participated in summer camp of School of IC,Zhejiang University. It's my first time to visit hangzhou🎇
