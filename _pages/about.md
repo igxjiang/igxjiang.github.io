@@ -42,8 +42,7 @@ My complete [scores](English Scores.pdf)
 - *2024.11*: &nbsp; I won the **National Scholarship**  (0.4% national-wide,it's my [slides](国奖答辩（定稿）.pdf))
 - *2024.10*: &nbsp; I joined the [**Digital PET lab**](https://petlab.hust.edu.cn/) as undergraduate researcher with the guidance of Prof.Xie and Mr.Zhilong Li.
 - *2023.10*: &nbsp; I won the **National Encouragement Scholarship**.
-- *2022.09*: &nbsp; I was Admitted to **HUST**.🥳
-
+- *2022.09*: &nbsp; I was Admitted to **HUST**.
 ---
 
 {% include research.html %}
