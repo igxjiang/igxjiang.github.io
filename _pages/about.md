@@ -32,6 +32,9 @@ My complete [scores](English Scores.pdf)
 
 
 ## News
+- *2026.01.20*: &nbsp; Super congratulations！I received a PhD offer from department of ECE at HKUST🎉
+- *2025.10*: &nbsp; I participated STC & GAS SENSOR-2025 in Wuhan.
+- *2025.12*: &nbsp; I participated 2025 International Conference on Brain-MachineIntelligence (The 2nd Chinese Conference on BrainMachine Intelligence) in Hangzhou.
 - *2025.07*: &nbsp; I was selected as **Excellent Camper** by Wastlake Unviersity and ZJU,FDU.🤗 
 - *2025.05*: &nbsp; I passed the visiting student program of **HKUST** and plan to start in July.💪
 - *2025.03*: &nbsp; I participated in [ICAC workshop](https://icacworkshop.cn/) 2025 in Shenzhen.
