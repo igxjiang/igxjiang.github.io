@@ -32,6 +32,7 @@ My complete [scores](English Scores.pdf)
 
 
 ## News
+- *2026.05.15*: &nbsp; I successfully defended my undergraduate thesis titled Simulation Design of the Analog Front-End for Brain-Computer Interfaces on the eve of my 21st birthday🎉
 - *2026.01.20*: &nbsp; Super congratulations！I received a PhD offer from department of ECE at HKUST🎉
 - *2025.10*: &nbsp; I participated STC & GAS SENSOR-2025 in Wuhan.
 - *2025.12*: &nbsp; I participated 2025 International Conference on Brain-MachineIntelligence (The 2nd Chinese Conference on BrainMachine Intelligence) in Hangzhou.
@@ -60,32 +61,24 @@ My complete [scores](English Scores.pdf)
 
 ---
 ## Skills
-- **Programming**(Python, Matlab, C/C++)
+- **English**:IELTS:6.5(L6.0 R7.5 W6.5 S5.5) CET-6:511
 - **Circuit Design**(Candence Virtuoso, LTspiec, NI Multisim)
+- **Programming**(Python, Matlab, C/C++)
 - **Microsoft Office** (Word, Excel, PPT)
 
 ---
 
 ## Activity
-- [优秀学子回访母校](https://mp.weixin.qq.com/s/RJEKuMY7fTDSBw8TNxMq-g)
-- Volunteer of 250+h
+- 2026.04 [Experience Sharing on Post-Graduation Directions](https://mp.weixin.qq.com/s/qp3XwNPmFVyy76j3bQvTTA)
+- 2023.07 [Summer Voluntary Teaching in Laifeng County, Hubei Province](https://mp.weixin.qq.com/s/d3KV-QBX14pxWGJZ6jlsLw)
+- 2023.01 [Outstanding students return to their alma mater](https://mp.weixin.qq.com/s/RJEKuMY7fTDSBw8TNxMq-g)
+- More than 250 Volunteer Hours in total
 
 ---
 
 Q&A  
 
 <details><summary> 
-1.Why PhD? </summary>
-I want to be a scientist in the future which is my dream form youth. I enjoy the feeling of exploring the unkonwn and communicating academics  </details>  
-
-<details><summary>   
-2.How do you do if not suitable for research?
-</summary>
-Since it's my choice, I will keep going no matter how difficult it is.</details>
-
-  <details><summary>   
-3.What difficulties did you encounter? </summary>  
-    So much in the process of studying.  
- </details>  
-
+Why PhD? </summary>
+I want to be a scientist in the future which is my dream form youth. I enjoy the feeling of exploring the unkonwn and communicating academics  </details> 
 ---
