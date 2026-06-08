@@ -31,23 +31,7 @@ My complete [scores](English Scores.pdf)
 
 
 ## 🔥 News
-- *2026.05.15*: I successfully defended my undergraduate thesis titled Simulation Design of the Analog Front-End for Brain-Computer Interfaces on the eve of my 21st birthday. 🎉
-- *2026.01.20*: Super congratulations! I received a PhD offer from the Department of ECE at HKUST. 🎉
-- *2025.12*: I participated in the 2025 International Conference on Brain-Machine Intelligence (The 2nd Chinese Conference on Brain-Machine Intelligence) in Hangzhou.
-- *2025.10*: I participated in STC & GAS SENSOR 2025 in Wuhan.
-- *2025.07*: I was selected as **Excellent Camper** by Westlake University, ZJU, and FDU. 🤗
-- *2025.05*: I passed the visiting student program of **HKUST** and planned to start in July. 💪
-- *2025.03*: I participated in the [ICAC workshop](https://icacworkshop.cn/) 2025 in Shenzhen.
-- *2025.02*: I founded my personal website.
-- *2024.11*: I won the **National Scholarship** (0.4% nationwide, it's my [slides](国奖答辩（定稿）.pdf)).
-- *2024.10*: I joined the [**Digital PET lab**](https://petlab.hust.edu.cn/) as an undergraduate researcher under the guidance of Prof. Xie and Mr. Zhilong Li.
-- *2023.10*: I won the **National Encouragement Scholarship**.
-- *2022.09*: I was admitted to **HUST**.
-
-
-## News
-
-<div style="max-height: 360px; overflow-y: auto; padding-right: 8px;">
+<div style="max-height: 300px; overflow-y: auto; padding-right: 8px;">
   <ul style="margin: 0; padding-left: 20px;">
     <li><em>2026.05.15</em>: I successfully defended my undergraduate thesis titled Simulation Design of the Analog Front-End for Brain-Computer Interfaces on the eve of my 21st birthday. 🎉</li>
     <li><em>2026.01.20</em>: Super congratulations! I received a PhD offer from the Department of ECE at HKUST. 🎉</li>
