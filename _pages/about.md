@@ -29,7 +29,7 @@ My complete [scores](English Scores.pdf)
 
 
 # 🔥 News
-<div style="max-height: 20px; overflow-y: auto; padding-right: 8px;">
+<div style="max-height: 270px; overflow-y: auto; padding-right: 8px;">
   <ul style="margin: 0; padding-left: 20px;">
     <li><em>2026.05.15</em>: I successfully defended my undergraduate thesis titled Simulation Design of the Analog Front-End for Brain-Computer Interfaces on the eve of my 21st birthday. 🎉</li>
     <li><em>2026.01.20</em>: Super congratulations! I received a PhD offer from the Department of ECE at HKUST. 🎉</li>
