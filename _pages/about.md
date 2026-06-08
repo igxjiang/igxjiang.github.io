@@ -9,13 +9,11 @@ redirect_from:
 
 
 # 👨‍🚀 About Me
-Hi! I’m **Guangxin Jiang (蒋光鑫)** , currently a final-year undergraduate student at Huazhong University of Science and Technology (HUST), majoring in Biomedical Engineering with a strong interest in microelectronics.  
-I have been fortunate to work under the supervision of Prof. [**Qingguo Xie**](https://sme.ustc.edu.cn/2023/0822/c30996a610384/) and Prof. [**Zhiwei Wang**](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm) during my undergraduate studies.  
+Hi! I’m **Guangxin Jiang (蒋光鑫)** , currently a final-year undergraduate student at Huazhong University of Science and Technology (HUST), majoring in Biomedical Engineering with a strong interest in microelectronics. I have been fortunate to work under the supervision of Prof. [**Qingguo Xie**](https://sme.ustc.edu.cn/2023/0822/c30996a610384/) and Prof. [**Zhiwei Wang**](http://faculty.hust.edu.cn/WANGZHIWEI/zh_CN/index.htm) during my undergraduate studies.  
 
 I am now a visiting student at [**CenBRAIN**](https://cenbrain.westlake.edu.cn/index.htm), Westlake University. I will join the Hong Kong University of Science and Technology (HKUST) in the fall of 2026 as a PhD student, supervised by Prof. [**Zhiyong Fan**](https://seng.hkust.edu.hk/about/people/faculty/zhiyong-fan).  
-My research focuses on sensor systems and analog integrated circuit design. In the future, I aspire to become a professor at a university.  
 
-Feel free to reach out to me for discussion or collaboration! Here is my [CV](CV(Guangxin Jiang@HUST).pdf).  
+My research focuses on sensor systems and analog integrated circuit design. In the future, I aspire to become a professor at a university. Feel free to reach out to me for discussion or collaboration! Here is my [CV](CV(Guangxin Jiang@HUST).pdf).  
 
 {% include scroll.html %}
 {% include edu.html %}
