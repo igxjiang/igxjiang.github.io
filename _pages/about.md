@@ -22,7 +22,7 @@ Feel free to reach out to me for discussion or collaboration! Here is my [CV](CV
 
 ---
 
-## Selected Courses
+# Selected Courses
 My complete [scores](English Scores.pdf)
 - CMOS Anolog Integrated circuits(86)  
 - Digital Integrated circuits (90)  
@@ -30,7 +30,7 @@ My complete [scores](English Scores.pdf)
 - RF Integrated circuits(96)
 
 
-## 🔥 News
+# 🔥 News
 <div style="max-height: 300px; overflow-y: auto; padding-right: 8px;">
   <ul style="margin: 0; padding-left: 20px;">
     <li><em>2026.05.15</em>: I successfully defended my undergraduate thesis titled Simulation Design of the Analog Front-End for Brain-Computer Interfaces on the eve of my 21st birthday. 🎉</li>
@@ -54,7 +54,7 @@ My complete [scores](English Scores.pdf)
 
 ---
 
-## 🎖️ Awards
+# 🎖️ Awards
 
 - **National Scholarship**(10K RMB💰)
 - Notioanal Encourgement Scholarshhip(5K RMB💰)
@@ -64,7 +64,7 @@ My complete [scores](English Scores.pdf)
 - HUST Mathmatical Modeling Compitition First Prize
 
 ---
-## 🔨 Skills
+# 🔨 Skills
 - **English**:IELTS:6.5(L6.0 R7.5 W6.5 S5.5) CET-6:511
 - **Circuit Design**(Candence Virtuoso, LTspiec, NI Multisim)
 - **Programming**(Python, Matlab, C/C++)
@@ -72,7 +72,7 @@ My complete [scores](English Scores.pdf)
 
 ---
 
-## 🎽 Activity
+# 🎽 Activity
 - 2026.04 [Experience Sharing on Post-Graduation Directions](https://mp.weixin.qq.com/s/qp3XwNPmFVyy76j3bQvTTA)
 - 2023.07 [Summer Voluntary Teaching in Laifeng County, Hubei Province](https://mp.weixin.qq.com/s/d3KV-QBX14pxWGJZ6jlsLw)
 - 2023.01 [Outstanding students return to their alma mater](https://mp.weixin.qq.com/s/RJEKuMY7fTDSBw8TNxMq-g)
